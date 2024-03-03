@@ -1,2 +1,2 @@
-# factions-wiki
+# hamiumFaction Wiki
 📘 hamiumFactions wiki
