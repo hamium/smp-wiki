@@ -1,6 +1,7 @@
-site_name: hamiumʷⁱᵏⁱ
+site_name: hamiumWiki
 copyright: Copyright &copy; 2023 - 2024 hamium
 repo_url: https://github.com/hamium/factions-wiki
+repo_name: hamium/factions-wiki
 nav:
   - Home: index.md
   - Factions (Season 4):
@@ -10,6 +11,7 @@ nav:
       - Banana Crew: factions/bs.md
       - Greenie Company: factions/gc.md
       - Internet Explorers: factions/ie.md
+      - Opera Institute Of China: factions/oc.md
   - Structures (Season 4):
       - Spawn: structures/spawn_s4.md
       - Tavern Complex: structures/tavern_complex_s4.md
@@ -38,18 +40,17 @@ nav:
       - Season 3: seasons/s3.md
       - Season 4 (current): seasons/s4.md
   - Extra:
-      - hamiumᵐᵐᵒ: extra/hamiummmo.md
-      - hamerMC: extra/hammermc.md
+      - hamiumMMO: extra/hamiummmo.md
+      - hammerMC: extra/hammermc.md
       - hammerDiscord: extra/hammerdc.md
-      - Racks: extra/racks.md
-  - List of staff: staff.md
+      - racks: extra/racks.md
 
 theme:
   name: material
-  logo: assets/imgs/logo.png
-  favicon: assets/imgs/logo.png
+  logo: assets/imgs/logo.svg
+  favicon: assets/imgs/logo.svg
   font:
-    text: Open Sans
+    text: Roboto
   icon:
     repo: fontawesome/brands/github
   palette:
@@ -58,18 +59,25 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+      primary: custom
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+      primary: custom
   features:
+    - navigation.top
+    - navigation.sections
+    - navigation.indexes
+    - navigation.path
     - header.autohide
     - navigation.footer
     - navigation.instant
+    - navigation.instant.progress
 
 extra:
-  generator: false
+  generator: true
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/hamium
@@ -78,3 +86,10 @@ extra:
 
 extra_css:
   - assets/stylesheets/colors.css
+  
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg

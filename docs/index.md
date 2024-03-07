@@ -1,16 +1,39 @@
-# Welcome to the hamiumʷⁱᵏⁱ
+# Welcome to the hamiumWiki
 
-This is the wiki for the hamium server, containing information about [players](staff/unium.md), [structures](structures/spawn_s4.md) and [factions](factions/cia.md), during [past](seasons/s1.md) and current seasons.
+This is the wiki mainly for the hamiumFactions community, containing information about [players](staff/unium.md), [structures](structures/spawn_s4.md) and [factions](factions/cia.md), during [past](seasons/s1.md) and current seasons. However, references to other hamium communities such as [racks](extra/racks.md) are also included.
 
 ## Quick links
+<div class="grid cards" markdown>
 
-* [__Famous players__](staff/unium.md) - A list of famous players and information about them.
-* [__Major structures__](structures/spawn_s4.md) - A list of major/large structures and information about them
-* [__Factions__](factions/cia.md) - A list of current/disbanded factions and information about them
-<hr>
-* [__Season 1__](seasons/s1.md) - Information about season 1 structures, factions, etc.
-* [__Season 2__](seasons/s2.md) - Information about season 2 structures, factions, etc.
-* [__Season 3__](seasons/s3.md) - Information about season 3 structures, factions, etc.
-* [__Season 4 (current)__](seasons/s4.md) - Information about the current season's structures, factions, etc.
+-   :material-clock-fast:{ .lg .middle } __Season 4__
 
-## 
+    ---
+
+    Information about the current season's structures, factions and more.
+
+    [:octicons-arrow-right-24: Go to Page](seasons/s4.md)
+
+-   :fontawesome-brands-markdown:{ .lg .middle } __Help Us__
+
+    ---
+
+    We can't fill up the wiki alone. Help us fill it, it's just markdown.
+
+    [:octicons-arrow-right-24: Go to Page](help.md)
+
+-   :material-format-font:{ .lg .middle } __Factions__
+
+    ---
+
+    List of all current season factions and relevant details of them.
+
+    [:octicons-arrow-right-24: Go to Page](#)
+
+-   :material-scale-balance:{ .lg .middle } __Well Known Players__
+
+    ---
+
+    Information about well known players of hamiumFactions.
+
+    [:octicons-arrow-right-24: Go to Page](#)
+</div>

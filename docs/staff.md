@@ -15,11 +15,11 @@ Below is a list of every staff member of the server.
 * [__captainmcchicken (captain)__](staff/captain.md) - Manages team tags, and helps with the technical side of the server.
 
 ## Helpers
-* [__claytontdm__](staff/fakeclay.md) - ham pls write smth abt fake clay, idk what to write here
+* [__claytontdm__](staff/fakeclay.md) - Provides feedback on server/network changes of hamiumMC.
 * [__SK__](staff/sk.md) - Admin in the sister server of hamium, [racks](extra/racks.md), also the first donator.
-* [__chip8709 (giangvu)__](staff/giangvu.md) - Builder for [hamiumᵐᵐᵒ](extra/hamiummmo.md).
+* [__chip8709 (giangvu)__](staff/giangvu.md) - Builder for [hamiumMMO](extra/hamiummmo.md).
 * [__mireu__](staff/mireu.md) - Builder for hamium.
-* [__ajipotato__](staff/aji.md)- idk
+* [__ajipotato__](staff/aji.md) - idk
 
 ## Retired/demoted staff
 * [__hydra__](staff/hydra.md) - The 4th person to join hamium, demoted at 7th march 2024.
