@@ -1,0 +1,95 @@
+site_name: hamiumWiki
+copyright: Copyright &copy; 2023 - 2024 hamium
+repo_url: https://github.com/hamium/factions-wiki
+repo_name: hamium/factions-wiki
+nav:
+  - Home: index.md
+  - Factions (Season 4):
+      - CIA: factions/cia.md
+      - Areial Empire: factions/ae.md
+      - Sky Crew: factions/sc.md
+      - Banana Crew: factions/bs.md
+      - Greenie Company: factions/gc.md
+      - Internet Explorers: factions/ie.md
+      - Opera Institute Of China: factions/oc.md
+  - Structures (Season 4):
+      - Spawn: structures/spawn_s4.md
+      - Tavern Complex: structures/tavern_complex_s4.md
+      - History Gazette HQ: structures/historygazette_hq_s4.md
+  - Notable players:
+      - Staff:
+          - LeUnium: staff/unium.md
+          - ham_: staff/ham.md
+          - Slimsiomai: staff/slim.md
+          - Reguleo: staff/leo.md
+          - Hydra72: staff/hydra.md
+          - kaeud_: staff/kaeud.md
+          - claniverse: staff/realclay.md
+          - Targaros: staff/targ.md
+          - ajipotato: staff/aji.md
+          - mireu: staff/mireu.md
+      - Regular players:
+          - ItzSKP: players/itzskp.md
+          - Hades: players/hades.md
+          - MinoCP: players/minocp.md
+  - Events:
+      - Marriage (Aji & Mireu): events/1.md
+  - Seasons:
+      - Season 1: seasons/s1.md
+      - Season 2: seasons/s2.md
+      - Season 3: seasons/s3.md
+      - Season 4 (current): seasons/s4.md
+  - Extra:
+      - hamiumMMO: extra/hamiummmo.md
+      - hammerMC: extra/hammermc.md
+      - hammerDiscord: extra/hammerdc.md
+      - racks: extra/racks.md
+
+theme:
+  name: material
+  logo: assets/imgs/logo.svg
+  favicon: assets/imgs/logo.svg
+  font:
+    text: Roboto
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+      primary: custom
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      primary: custom
+  features:
+    - navigation.top
+    - navigation.sections
+    - navigation.indexes
+    - navigation.path
+    - header.autohide
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.progress
+
+extra:
+  generator: true
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/hamium
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/h2PnjPHxNP
+
+extra_css:
+  - assets/stylesheets/colors.css
+  
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
