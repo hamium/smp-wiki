@@ -1,6 +1,6 @@
 ## Details
 <div class="grid" markdown>
-![ajipotato](https://cravatar.eu/helmhead/imdollified/90.png){align=left}
+![ajipotato](https://cravatar.eu/helmhead/imdollified/100.png){align=left}
 **Discord:** ajipot<br>
 **IGN:** ajipotato (cracked)<br>
 **Discord Alt:** ajii6139<br>
