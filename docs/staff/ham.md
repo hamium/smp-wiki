@@ -1,6 +1,6 @@
 ## Details
 <div class="grid" markdown>
-![ham_](https://render.skinmc.net/3d.php?user=qCatwarse&vr=-10&hr0&hrh=34&aa=&headOnly=true&ratio=7.5){align=left}
+![ham_](https://cravatar.eu/helmhead/qCatwars/90.png){align=left}
 **:fontawesome-brands-discord:{ title="Discord" }** hamhimstudio<br>
 **:fontawesome-brands-discord:{ title="Discord (Alt)" }** hamhimstudio.com<br>
 **:material-minecraft:{ title="Minecraft IGN" }** ham_<br>
