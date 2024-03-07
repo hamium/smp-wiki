@@ -19,14 +19,11 @@ The dream to conquer began with The Banana Syndicate, but alas, fate dealt a har
 Despite its downfall, The Banana Syndicate did achieve some feats. A small sustainable base was established - a villager breeder and a trading hall were constructed, and most members were equipped out with diamond armor, a testament to their dedication and prowess in the realm. Elsewhere, Eobard_Thawne_ set up a sister base at a castle, and he set up infrastructure for a thriving kingdom - with an overly producing villager breeder and iron farm. 
 
 ### 🛡️ **The Fall of the Base**:
-Unfortunately, the base fell into disuse as the scourge of "exams" wreaked havoc among the members. Forced to prioritize their studies, many of the Syndicate's members became refugees, seeking solace and sanctuary in other factions, leaving behind memories of what could have been. The 2 most prominent members joined a rival faction, ***Internet Explorers***, enticed with offers from *Hades* and his crew, while the owner, Jack, who himself had separated from the ***IE*** chose to abandon his quest for glory. He swore on revenge - that ***IE*** shall fall before the might of potassium, but for now, he must rebuild the foundations elsewhere. 
+Unfortunately, the base fell into disuse as the scourge of "exams" wreaked havoc among the members. Forced to prioritize their studies, many of the Syndicate's members became refugees, seeking solace and sanctuary in other factions, leaving behind memories of what could have been. The 2 most prominent members joined a rival faction, ***Internet Explorers***, enticed with offers from *Hades* and his crew, while the owner, Jack, who himself had separated from the ***IE*** chose to abandon his quest for glory. He swore on revenge - that ***IE*** shall fall before the might of potassium, but for now, he must rebuild the foundations elsewhere. <br>
 What must be done with the base? It shall provide sanctuary to all needy travellers and new players, offering them sustenance and lending them a helping hand. But the crumbling walls of the Syndicate shall always emnate the morose symphony of failure and disappointment...
 
-## 💀 Revive Us
-Ready to embark on the adventure of a lifetime and revive the power of **POTASSIUM**? 🌟 
-Join the Banana Syndicate today, and together, we'll carve our path through the wilderness of opportunity. 🍌🔥
-
- <a href="https://discord.gg/QGysTvzuJq">
- <img src="https://img.shields.io/badge/Discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white&color=071A2C" alt="Discord"/>
+### 💀 The Foreboding Future
+It is uncertain between another player with the tag of The Syndicate will join the server. For now, it remains in the hands of new aspiring faction leaders to revive what was dead, and make it even better. ✌️ <br>
+Let the motto of the Syndicate be uttered for a final time -
 
 #### <i>"When life gives you bananas, make a syndicate." 🍌💸</i>
