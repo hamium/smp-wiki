@@ -19,7 +19,7 @@
 </div>
 
 ##### About
-ham_ (often just called "ham") is an owner of hamium. He is one of it's founders and plays an important role in maintaing hamiumMC alongside with the other owner, [LeUnium](staff/unium.md). He has been a part of hamiumFactions since [season 1](seasons/s1.md). He hosts the Singapore proxy on Google Cloud Platform for all hamiumMC servers, manages hamium's Discord and also [racks](extra/racks.md).
+ham_ (often just called "ham") is an owner of hamium. He is one of it's founders and plays an important role in maintaing hamiumMC alongside with the other owner, [LeUnium](unium.md). He has been a part of hamiumFactions since [season 1](../seasons/s1.md). He hosts the Singapore proxy on Google Cloud Platform for all hamiumMC servers, manages hamium's Discord and also [racks](../extra/racks.md).
 
 ##### Other Details
-ham_ is living in Australia for studies. He comes from Japan and is currently 17 years old. His name is Asahi. This picture is taken from his GitHub. He is often seen using this profile picture mainly from his alt Discord account "altham_". He also lives with [claniverse](staff/realclay.md) (aka Clay), his very good friend, who is our Head Admin of hamium Discord servers.
+ham_ is living in Australia for studies. He comes from Japan and is currently 17 years old. His name is Asahi. This picture is taken from his GitHub. He is often seen using this profile picture mainly from his alt Discord account "altham_". He also lives with [claniverse](realclay.md) (aka Clay), his very good friend, who is our Head Admin of hamium Discord servers.
