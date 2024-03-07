@@ -2,7 +2,6 @@ site_name: hamiumWiki
 copyright: Copyright &copy; 2023 - 2024 hamium
 repo_url: https://github.com/hamium/factions-wiki
 repo_name: hamium/factions-wiki
-edit_uri: tree/main/docs/
 nav:
   - Home: index.md
   - Factions (Season 4):
@@ -68,7 +67,7 @@ theme:
         name: Switch to light mode
       primary: custom
   features:
-    - content.action.edit
+    - content.tooltips
     - navigation.top
     - navigation.sections
     - navigation.indexes
@@ -77,7 +76,6 @@ theme:
     - navigation.footer
     - navigation.instant
     - navigation.instant.progress
-    - search.suggest
 
 extra:
   generator: true
@@ -86,28 +84,14 @@ extra:
       link: https://github.com/hamium
     - icon: fontawesome/brands/discord
       link: https://discord.gg/h2PnjPHxNP
-  consent:
-    title: Give Us Cookies! (for your good!)
-    description: >- 
-      We use cookies to save preferences, as well
-      as to measure the effectiveness of our documentation and whether users
-      find what they're searching for. We do not collect personal information!
 
 extra_css:
   - assets/stylesheets/colors.css
   
 markdown_extensions:
+  - pymdownx.snippets
   - attr_list
   - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
-plugins:
-  - search
-  - git-revision-date-localized:
-      type: timeago
-      enable_creation_date: true
-  - git-committers:
-      repository: hamium/factions-wiki
-      branch: main
