@@ -1,6 +1,6 @@
 ## Details
 <div class="grid" markdown>
-![ajipotato](https://render.skinmc.net/3d.php?user=Null&vr=-10&hr0&hrh=34&aa=&headOnly=true&ratio=10){align=left}
+![ajipotato](https://render.skinmc.net/3d.php?user=imdollified&vr=-10&hr0&hrh=34&aa=&headOnly=true&ratio=10){align=left}
 **Discord:** ajipot<br>
 **IGN:** ajipotato (cracked)<br>
 **Discord Alt:** ajii6139<br>
