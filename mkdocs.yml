@@ -1,6 +1,6 @@
 site_name: hamiumʷⁱᵏⁱ
 copyright: Copyright &copy; 2023 - 2024 hamium
-
+repo_url: https://github.com/hamium/factions-wiki
 nav:
   - Home: index.md
   - Factions (Season 4):
@@ -39,8 +39,8 @@ nav:
       - Season 4 (current): seasons/s4.md
   - Extra:
       - hamiumᵐᵐᵒ: extra/hamiummmo.md
-      - Hammer (plugin): extra/hammermc.md
-      - Hammer (bot): extra/hammerdc.md
+      - hamerMC: extra/hammermc.md
+      - hammerDiscord: extra/hammerdc.md
       - Racks: extra/racks.md
   - List of staff: staff.md
 
@@ -48,9 +48,25 @@ theme:
   name: material
   logo: assets/imgs/logo.png
   favicon: assets/imgs/logo.png
+  font:
+    text: Open Sans
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   features:
     - header.autohide
     - navigation.footer
+    - navigation.instant
 
 extra:
   generator: false
