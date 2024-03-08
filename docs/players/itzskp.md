@@ -15,7 +15,7 @@
 
 ##### :material-account-question: About
 
-ItzSKP (generally shortened to SKP) is a notable player in Hamium. Hr has been a part of the server since [season 3](/seasons/3).
+ItzSKP (generally shortened to SKP) is a notable player in Hamium. He has been a part of the server since [season 3](/seasons/3).
 
 ###### Season 3
 
