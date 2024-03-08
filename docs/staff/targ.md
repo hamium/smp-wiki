@@ -2,8 +2,8 @@
 <div class="grid" markdown>
 ![Targaros](https://cravatar.eu/helmhead/NotRealGrian/100.png){align=left}
 **:fontawesome-brands-discord:{ title="Discord" }** targaros<br>
-**:material-minecraft:{ title="Minecraft in game name" }** Targaros<br>
-:fontawesome-solid-crown:{ title="Role" } :fontawesome-solid-hammer: Helper, Lead Historian<br>
+**:material-minecraft:{ title="Minecraft IGN" }** Targaros<br>
+:fontawesome-solid-hammer:{ title="Role" } Helper, Lead Historian<br>
 :material-cake:{ title="Birthday" } 12 September
 { .card }
 </div>
