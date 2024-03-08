@@ -1,6 +1,6 @@
 ## Details
 <div class="grid" markdown>
-![Hades](https://cravatar.eu/helmhead/Hades/100.png){align=left}
+![Hades](https://cravatar.eu/helmhead/4a7ce099-1263-4b76-ba20-46816fd1464b/100.png){align=left}
 **:fontawesome-brands-discord:{ title="Discord" }** chikitabunita.<br>
 **:material-minecraft:{ title="Minecraft In-Game Name" }** Hades<br>
 :fontawesome-solid-flag:{ title="Factions" } DRON <i>(<a href="../seasons/s3.md">Season 3</a>)</i>, Internet Explorers <i>(<a href="../seasons/s4.md">Season 4</a>)</i>
