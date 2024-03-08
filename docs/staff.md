@@ -22,5 +22,5 @@ Below is a list of every staff member of the server.
 * [__Targaros__](staff/targ.md) - Lead Historian
 
 ## Retired/demoted staff
-* [__hydra__](staff/hydra.md) - The 4th person to join hamium, demoted at 7th march 2024.
-* [__chip8709 (giangvu)__](staff/giangvu.md) - Builder for [hamiumMMO](extra/hamiummmo.md). Retired at 8th march 2024
+* [__hydra__](players/hydra.md) - The 4th person to join hamium, demoted at 7th march 2024.
+* __chip8709 (giangvu)__ - Builder for [hamiumMMO](extra/hamiummmo.md). Retired at 8th march 2024
