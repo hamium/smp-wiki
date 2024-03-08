@@ -14,13 +14,17 @@
 </div>
 
 ##### :material-account-question: About
-SKP was the creator of the Salmon Faction (SF) - the main competitor to world domination of DRON (Democratic Republic of Noxus), in Season 3. While DRON boasted the largest members, SKP's diligence and incomparable hours of game-time brought SF to the level of self-sufficiency and war. When war came, well, it lasted exactly 30 minutes (a massive meme for days to come), and SF faced a humiliating defeat. SKP however was adamant to never yield to LeUnium's faction, and even in Season 4, he upholds the rivalry. SKP created the Aerial Empire, refusing to join any ex-DRON member. He is, however, friendly in-game, generous to new players of his faction and of rivals as well. 
-According to an insider, SKP named his faction "Salmon Faction" when he noticed he had a salmon in his inventory. 
-SKP fkin hates iSark (who is writing this wiki page about him) because he may or may not have made fun of SF, himself being a part of DRON. Hence, SKP has scandalously denied multiple requests to join AE (Aerial Empire) in Season 4.
-SKP joined the server on January 13, 2024, and his first 2 messages were : "mhm / whats the ip?". Blind to the fact that "the ip" was LITERALLY on top of his message,he was met with an exasperated ham replying with "r e a d  ⁠📚・info  g o d d a m i t".
-Recently (March 7, 2024), he has been accused of using x-ray hacks, but all charges were dropped for lack of evidence.
 
-Side Note : Just so the author of this wiki does not get mauled by him tonight, SF surrendered to DRON in 30 minutes of war because : 1. It was based on punching, and 2. SF had few members online (2-3) compared to DRON's 8-9 members.
+ItzSKP (generally shortened to SKP) is a notable player in Hamium. Hr has been a part of the server since [season 3](/seasons/3).
+
+###### Season 3
+
+ItzSKP created the Salmon Faction (SF), having a rivalry with the Democratic Republic of Noxus (DRON). He named SF as it saved him on the brink of starvation, and no other reason. His time spent in the game propelled SF almost into the level of DRON. During the DRON-SF war, he fought and was accused of trying to run away, due to not being clear if he accepted to surrender.
+
+###### Season 4
+
+This season SKP created the [Aerial Empire](/factions/ae.md) faction.
+
 
 ##### :material-lead-pencil: Other Details
 SKP lives in Bhopal, Madhya Pradesh. He also does art and drawing to some extent. 
