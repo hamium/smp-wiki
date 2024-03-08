@@ -2,8 +2,8 @@
 <div class="grid" markdown>
 ![mireu](https://cravatar.eu/helmhead/mireu/100.png){align=left}
 **:fontawesome-brands-discord:{ title="Discord" }** tixij_<br>
-**:material-minecraft:{ title="Minecraft in game name" }** mireu<br>
-:fontawesome-solid-crown:{ title="Role" } :fontawesome-solid-hammer: Helper<br>
+**:material-minecraft:{ title="Minecraft IGN" }** mireu<br>
+:fontawesome-solid-hammer:{ title="Role" } Helper<br>
 { .card }
 </div>
 
