@@ -19,7 +19,8 @@ Below is a list of every staff member of the server.
 * [__SK__](staff/sk.md) - Admin in the sister server of hamium, [racks](extra/racks.md), also the first donator.
 * [__chip8709 (giangvu)__](staff/giangvu.md) - Builder for [hamiumMMO](extra/hamiummmo.md).
 * [__mireu__](staff/mireu.md) - Builder for hamium.
-* [__ajipotato__](staff/aji.md) - idk
+* [__ajipotato__](staff/aji.md) - Emotional support
+* [__Targaros__](staff/targ.md) - Lead Historian
 
 ## Retired/demoted staff
 * [__hydra__](staff/hydra.md) - The 4th person to join hamium, demoted at 7th march 2024.
