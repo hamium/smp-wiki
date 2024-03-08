@@ -4,7 +4,7 @@
 **:fontawesome-brands-discord:{ title="Discord" }** chikitabunita.<br>
 **:fontawesome-brands-discord:{ title="Discord (Alt)" }** dismybish0404<br>
 **:material-minecraft:{ title="Minecraft IGN" }** Hades<br>
-:fontawesome-solid-flag:{ title="Factions" } DRON <i>(<a href="../seasons/s3.md">Season 3</a>)</i>, Internet Explorers <i>(<a href="../seasons/s4.md">Season 4</a>)</i>
+:fontawesome-solid-flag:{ title="Factions" } `DRON` <i>(<a href="../seasons/s3">Season 3</a>)</i>, `IE` <i>(<a href="../seasons/s4">Season 4</a>)</i>
 { .card }
 
 ![Hades](https://cdn.discordapp.com/avatars/692771725334675526/d170d7566e8cfc118fd64193382864cc.webp?width=120&height=120){align=left}
