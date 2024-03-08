@@ -15,6 +15,8 @@
 
 ##### :material-account-question: About
 
+ItzSKP (generally shortened to SKP) is a notable player in Hamium. Hr has been a part of the server since [season 3](/seasons/3).
+
 ###### Season 3
 
 ItzSKP created the Salmon Faction (SF), having a rivalry with the Democratic Republic of Noxus (DRON). He named SF as it saved him on the brink of starvation, and no other reason. His time spent in the game propelled SF almost into the level of DRON. During the DRON-SF war, he fought and was accused of trying to run away, due to not being clear if he accepted to surrender.
