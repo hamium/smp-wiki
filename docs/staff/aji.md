@@ -1,10 +1,10 @@
 ## Details
 <div class="grid" markdown>
 ![ajipotato](https://cravatar.eu/helmhead/imdollified/100.png){align=left}
-**Discord:** ajipot<br>
-**IGN:** ajipotato (cracked)<br>
-**Discord Alt:** ajii6139<br>
-**Role:** Helper<br>
+**:fontawesome-brands-discord:{ title="Discord" }** ajipot<br>
+**:fontawesome-brands-discord:{ title="Discord (Alt)" }** ajii6139<br>
+**:material-minecraft:{ title="Minecraft IGN" }** ajipotato<br>
+:fontawesome-solid-hammer:{ title="Role" } Helper<br>
 { .card }
 </div>
 
