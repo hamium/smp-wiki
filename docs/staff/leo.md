@@ -18,7 +18,7 @@ During seasons 1 and 2, Leo made the Second Turkish Sultanate, which reached aro
 
 ###### Season 3
 
-In season 3, Leo - in addition to Targaros and SparkSteel8 - helped to re-establish the [Greenies](/factions/tg.md), which was a former season 1-2 faction made by Derpsion. At its max, the Greenies consisted of over 10 members.
+In season 3, Leo - in addition to Targaros and SparkSteel8 - helped to re-establish the [Greenies](/factions/gc.md), which was a former season 1-2 faction made by Derpsion. At its max, the Greenies consisted of over 10 members.
 
 ###### Season 4
 
