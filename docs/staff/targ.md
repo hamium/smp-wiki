@@ -13,7 +13,7 @@ Targaros (generally and preferably (by herself) shortened to "targ") is part of 
 
 ###### Season 3
 
-During season 3, Targaros greatly helped the [Greenie Company](/factions/tg.md) (at the time The Greenies). She made their faction base [The Avarous Clocktower](/structures/season3/tgbase.md). She also built her base closeby.
+During season 3, Targaros greatly helped the [Greenie Company](/factions/gc.md) (at the time The Greenies). She made their faction base [The Avarous Clocktower](/structures/season3/tgbase.md). She also built her base closeby.
 
 ###### Season 4
 
