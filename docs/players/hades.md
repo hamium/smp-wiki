@@ -10,20 +10,35 @@
 ![Hades](https://cdn.discordapp.com/avatars/692771725334675526/d170d7566e8cfc118fd64193382864cc.webp?width=120&height=120){align=left}
 **:fontawesome-solid-location-dot:{ title="Location" }** India<br>
 **:fontawesome-solid-person:{ title="Ethnicity" }** Indian<br>
-**:material-cake:{ title="Birth Date" }** 16th May<br>
+**:material-cake:{ title="Birth Date" }** 16ᵀᴴ May<br>
 { .card }
 </div>
 
 ##### :material-account-question: About
-Hades was an important member in DRON (Democratic Republic of Noxus) and the current leader of the Internet Explorers. <br>
-Hades joined the server on `December 25, 2023` at the very start of Season 3. <br>
+Hades was an important member in DRON (Democratic Republic of Noxus) in Season 3, and the current leader of the [***Internet Explorers***](../factions/ie.md) <br>
+He joined the server on *December 25, 2023* at the very start of [***Season 3.***](../seasons/s3.md) <br>
+
+##### Season 3
+
 Some of his notable achievements include :<br>
-1. He practically founded the `Dragon Slayers` base on a cliffside near `Lockheed Martin` (LM) base of DRON. The nation of DRON prospered with DS and LM as its capitals. <br>
+1. He practically founded the ***Dragon Slayers*** (DS) base on a cliffside near [***Lockheed Martin***](../structures/season3/lms3base.md) (LM) base of DRON. The nation of DRON prospered with DS and LM as its capitals. <br>
 2. He became arguably one of the richest on the server in terms of valuables (diamonds, netherite, ancient debris, elytras etc.).<br>
-3. He has created multiple farms, like the Raid Farm, redesigned the trading hall at the `Notre Dame` (ND) base of DRON, and much more. <br>
-4. In Season 4, he created the IE faction, and it very soon became a replica of DRON (almost) paralleling his old faction in terms of riches and self-sufficiency.<br>
-<br>
-***Goofs:*** He has spent 7 hours of real-life time to trap a zombie for his iron farm (it broke after 2 minecraft days).<br>
+3. He was one of the first to creat large-scale farms, like the Raid Farm, redesigned the trading hall at the Notre Dame (ND) base of DRON, and much more. <br>
+
+##### Season 4
+
+This season Hades joined the [***Internet Explorers***](../factions/ie.md) faction. <br>
+Some of his achievements this season include:<br>
+1. He was the first person on the server to obtain an Elytra in [***The End***]() event<br>
+2. He has spent 7 hours of real-life time to trap a zombie for his iron farm (it broke after 2 minecraft days)<br>
+3. His plans for the season is to expand onto the Floating Isles, as well as, re-create the ***DS*** base over the Mushroom Cliffs.<br>
+Exams have hindered his progress this season, as was the case with [***ItzSKP***](../players/itzskp.md). <br>
+<figure markdown="span">
+  ![The IE Base](https://c4.wallpaperflare.com/wallpaper/892/687/769/minecraft-island-village-shaders-hd-wallpaper-preview.jpg){ width="300" }
+  <figcaption>Hades' base on Season 4</figcaption>
+</figure>
 
 ##### :material-lead-pencil: Other Details
-Hades lives in India, and he is around 17-18 years old. He studies in the 12th grade. He also has severe hormonal tendencies, as is evident from recent images in the hall of shame.
+Hades lives in India, and he is around 17-18 years old.  He has severe hormonal tendencies, as is evident from recent images in the hall of shame.
+
+> *"I made a spotify playlist for you ham. Its called love my femboy ham"*<br> - Hades, trying to increase his message count on the server.
