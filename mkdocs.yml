@@ -8,7 +8,7 @@ nav:
       - CIA: factions/cia.md
       - Areial Empire: factions/ae.md
       - Sky Crew: factions/sc.md
-      - Banana Crew: factions/bs.md
+      - Banana Syndicate: factions/bs.md
       - Greenie Company: factions/gc.md
       - Internet Explorers: factions/ie.md
       - Opera Institute Of China: factions/oc.md
@@ -37,6 +37,7 @@ nav:
           - ItzSKP: players/itzskp.md
           - Hades: players/hades.md
           - MinoCP: players/minocp.md
+          - iSark: players/iSark.md
   - Events:
       - Marriage (Aji & Mireu): events/1.md
   - Seasons:
