@@ -43,5 +43,5 @@ Exams have hindered his progress this season.
 </figure>
 
 ##### :material-lead-pencil: Other Details
-SKP does art and drawing to some extent.
+SKP lives in Hong Kong, China. He does art and drawing to some extent.
 
