@@ -3,7 +3,8 @@
 ![ItzSKP](https://cravatar.eu/helmhead/4a7ce099-1263-4b76-ba20-46816fd1464b/100.png){align=left}
 **:fontawesome-brands-discord:{ title="Discord" }** king_skp<br>
 **:material-minecraft:{ title="Minecraft IGN" }** ItzSKP<br>
-:fontawesome-solid-flag:{ title="Factions" } Salmon Faction <i>(<a href="../seasons/s3.md">Season 3</a>)</i>, Aerial Empire <i>(<a href="../seasons/s4.md">Season 4</a>)</i>
+:fontawesome-solid-flag:{ title="Season 3" } Salmon Faction <br>
+:fontawesome-solid-flag:{ title="Season 4" } <b><i><a href="../factions/ae.md">Aerial Empire</a></i></b>
 { .card }
 
   *"I have yet to meet a man who can outsmart gun"*
