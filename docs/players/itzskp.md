@@ -6,6 +6,10 @@
 :fontawesome-solid-flag:{ title="Factions" } Salmon Faction <i>(<a href="../seasons/s3.md">Season 3</a>)</i>, Aerial Empire <i>(<a href="../seasons/s4.md">Season 4</a>)</i>
 { .card }
 
+  *"I have yet to meet a man who can outsmart gun"*
+‒ Heavy Weapons guy
+‒ SKP
+
 ![Hades](https://cdn.discordapp.com/avatars/1111067959935377428/25914b0ce2c9879e1e48888a4ee8fe1d.webp?width=120&height=120){align=left}
 **:fontawesome-solid-location-dot:{ title="Location" }** India<br>
 **:fontawesome-solid-person:{ title="Ethnicity" }** Indian<br>
@@ -15,29 +19,29 @@
 
 ##### :material-account-question: About
 
-ItzSKP (generally shortened to SKP) is a notable player in Hamium. He has been a part of the server since [***Season 3***](../seasons/s3.md).
+ItzSKP (generally shortened to SKP) is a notable player in Hamium. He has been a part of the server since late [Season 3](../seasons/s3.md).
 
 ##### Season 3
 
-ItzSKP created the Salmon Faction (SF), having a rivalry with the Democratic Republic of Noxus (DRON). He named SF as it saved him on the brink of starvation, and no other reason. His time spent in the game propelled SF almost into the level of DRON. During the DRON-SF war, he fought and was accused of trying to run away, due to not being clear if he accepted to surrender. Some of his personal achievements in SF were:<br>
-1. He had more elytras than [***Hades***](../players/hades.md).<br>
-2. He had collected nearly all Armor Trims, and all of the Music Discs.<br>
-3. He had amassed multiple sets of armor, and multiple stacks of Golden Apples.<br>
+ItzSKP created the Salmon Faction (SF), having a rivalry with the Democratic Republic of Noxus (DRON). He named SF as it saved him on the brink of starvation, and no other reason. His time spent in the game propelled SF almost into the level of DRON in terms of equipment. During the [DRON-SF](/seasons/s3) war, he fought and was accused of trying to run away, due to not being clear if he accepted to surrender.
+Some of his personal achievements in SF were:
+1. He had more elytras than [Hades](../players/hades.md).
+2. He had collected nearly all Armor Trims, and all of the Music Discs.
+3. He had amassed multiple sets of armor, and multiple stacks of Golden Apples.
 
 ##### Season 4
 
-This season SKP created the [***Aerial Empire***](../factions/ae.md) faction. Despite being the faction leader, he lives secluded - around 7000 blocks from the faction base. Some of his notable achievements are : <br>
-1. He was the first person to obtain an Elytra in [***The End***]() event, although he borrowed one from [***Minocp***](../players/minocp.md) of [***IE***](../factions/ie.md) faction.<br>
-2. When interviewed, he said that he made *"a cool iron farm"*. A faction member, ItsLodus, has an equal claim over it as well.<br>
-3. His plans for the season is to build a *Spanish Kingdom* with 3 Villages and a Castle as well.<br>
-Exams have hindered his progress this season, as was the case with [***Hades***](../players/hades.md). <br>
+SKP created the [Aerial Empire](../factions/ae.md) faction. Despite being the faction leader, he lives secluded - around 7000 blocks from the faction base.
+Some of his personal notable doings so far are:
+1. He was the first person to obtain an Elytra in [The End event](/events/s4/End.md), although he borrowed one from [Minocp](../players/minocp.md).
+2. When interviewed, he said that he made "*a cool iron farm*". A faction member, ItsLodus, has an equal claim over it as well.
+3. He plans to build a "*Spanish Kingdom*" with 3 villages and a castle.
+Exams have hindered his progress this season.
 <figure markdown="span">
   ![SKP's Base](https://github.com/hamium/factions-wiki/blob/main/docs/assets/imgs/skpbase.png?raw=true){ width="300" border-radius="5" }
   <figcaption>SKP's Base on Season 4</figcaption>
 </figure>
 
 ##### :material-lead-pencil: Other Details
-SKP lives in Hong Kong, China. He also does art and drawing to some extent.
+SKP lives in Hong Kong, China. He does art and drawing to some extent.
 
-> *""I have yet to meet a man who can outsmart gun"* <br>
-‒ SKP (in a Russian accent)
