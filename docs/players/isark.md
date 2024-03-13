@@ -9,7 +9,7 @@
 > *"if life gives you free chocolate milkshake, you probably have diabetes"* <br>
 ‒ iSark, on his sugar level.
 
-![Hades](https://cdn.discordapp.com/avatars/702471256473075722/fa483f7381b89192373cf679f580ee91.png?width=120&height=120){align=left}
+![iSark](https://cdn.discordapp.com/avatars/702471256473075722/fa483f7381b89192373cf679f580ee91.png?width=120&height=120){align=left}
 **:fontawesome-solid-location-dot:{ title="Location" }** India<br>
 **:fontawesome-solid-person:{ title="Ethnicity" }** Indian<br>
 **:material-cake:{ title="Birth Date" }** 4ᵀᴴ August<br>
@@ -30,7 +30,7 @@ In season 4, he joined lolrussy's Communist Ghosts faction. However, the faction
 disband due to inactivity. Lastly, he joined the [Internet Explorers](../factions/ie.md), which would remain his current faction.
 Some of his personal notable achievements are:
 1. He fixed broken iron farms, and built a string duper.
-2. He cleared 2 Ancient Cities in search of a Silence armour trim, with the help of [Minocp](../players/minocp.md) and [ItzSKP](../players/itzskp.md)
+2. He cleared 2 Ancient Cities in search of a Silence armour trim, with the help of [Minocp](../players/minocp.md) and [ItzSKP](../players/itzskp.md).
 
 ##### :material-lead-pencil: Other Details
 iSark lives in India. He plays club-level football.
