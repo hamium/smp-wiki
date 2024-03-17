@@ -34,10 +34,28 @@ Some of his achievements this season include:<br>
 2. He has spent 7 hours of real-life time to trap a zombie for his iron farm (it broke after 2 minecraft days)<br>
 3. His plans for the season is to expand onto the Floating Isles, as well as, re-create the ***DS*** base over the Mushroom Cliffs.<br>
 Exams have hindered his progress this season, as was the case with [***ItzSKP***](../players/itzskp.md). <br>
-<figure markdown="span">
-  ![The IE Base](https://c4.wallpaperflare.com/wallpaper/892/687/769/minecraft-island-village-shaders-hd-wallpaper-preview.jpg){ width="300" }
-  <figcaption>Hades' base on Season 4</figcaption>
-</figure>
+<div class="carousel_wrapper"> 
+  <div  class="carousel">
+    <div class="slide one">
+        <img src="https://github.com/xylium117/factions-wiki/blob/patch-16/docs/assets/imgs/ie1.png?raw=true" width="80px" />
+        <div class="card-btn-container">
+            <a href="/">
+            <span>The Water Tower</span>
+            </a>
+        </div>
+    </div>
+ 
+     <div class="slide two">
+       <img src="https://github.com/xylium117/factions-wiki/blob/patch-16/docs/assets/imgs/ie2.png?raw=true" width="80px" />
+       <div class="card-btn-container">
+            <a href="/">
+            <span>The Trading Hall</span>
+            </a>
+        </div>
+    </div> 
+ </div>
+</div>
+
 
 ##### :material-lead-pencil: Other Details
 Hades lives in India, and he is around 17-18 years old.  He has severe hormonal tendencies, as is evident from recent images in the hall of shame.
