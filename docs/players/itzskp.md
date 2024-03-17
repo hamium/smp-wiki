@@ -30,7 +30,7 @@ Some of his personal achievements in SF were:<br>
 
 SKP created the [***Aerial Empire***](../factions/ae.md) faction. Despite being the faction leader, he lives secluded - around 7000 blocks from the faction base.<br>
 Some of his personal notable doings so far are:<br>
-1. He was the first person to obtain an Elytra in [***The End event***](../events/s4/End.md), although he borrowed one from [***Minocp***](../players/minocp.md).<br>
+1. He was the first person from his faction to obtain an Elytra in [***The End event***](../events/s4/End.md), although he borrowed one from [***Minocp***](../players/minocp.md).<br>
 2. When interviewed, he said that he made "*a cool iron farm*". A faction member, ItsLodus, has an equal claim over it as well.<br>
 3. He plans to build a "*Spanish Kingdom*" with 3 villages and a castle.<br>
 Exams have hindered his progress this season.<br>
