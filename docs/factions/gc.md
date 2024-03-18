@@ -1,13 +1,15 @@
- ## The Greenie Company
+ ## The Venevian Company
 
- ![Greenie Company Logo](https://media.discordapp.net/attachments/1211592958437236756/1213680664763834389/Greeny_Company_Flag.png?ex=65f65b33&is=65e3e633&hm=d0524b9f68c28ef19d0bd1a1d792d4e353316cb62f8af499994b7f61971b5ade&=&format=webp&quality=lossless&width=243&height=495)
+ ![Venevian Company Logo](https://media.discordapp.net/attachments/1211592958437236756/1213680664763834389/Greeny_Company_Flag.png?ex=65f65b33&is=65e3e633&hm=d0524b9f68c28ef19d0bd1a1d792d4e353316cb62f8af499994b7f61971b5ade&=&format=webp&quality=lossless&width=243&height=495)
 
 Faction that desires to be one of the most influential nations on the server. They remain neutral, but will fight if needed.
 
 ### 👥 **Members**:
 - [Reguleo](staff/leo.md) (Council member)
 - SparkSteel8 (Council Member)
-- Rogerner
+- Ed
+- Boy
+- Mart
 - Fraderz
 - SpoiledBoi64
 - Derpsion (Honorary Member)
@@ -16,7 +18,8 @@ Faction that desires to be one of the most influential nations on the server. Th
 ## History
 
 ### Seasons 1-2
-
+> [!NOTE]  
+> The Greenies was re-named to Greenie Company which was then renamed to Venvian Company
 The Greenies originally began in Season 1, with the original creator, Derpsion, being the leader. The faction had a primary emphasis on trading and selling goods, and during the second season, it made its own form of currency of green dye from cacti. Eventually, with the end of Season 2, the Greenies was dissolved as a result of the new policy that required all factions to dissolve at the end of a season, and due to a general inactivity of members, Derpsion himself becoming less active. 
 
 ### Season 3
@@ -40,6 +43,8 @@ Targaros planned to make a castle as a more proper base than the clock tower, bu
 At the start of Season 4, Reguleo decided to rebrand and restructure the Greenies, renaming the faction to "Greenie Company". It was a throwback to his old faction he had created, the Venevian Company, before the start of the Greenies in Season 3. Reguleo established the official Greenies base on a small spruce island, and the base was rapidly expanded by Fraderz and SparkSteel8. Targaros however, decided not to rejoin the faction.
 
 The base is still a work in progress, but recent business deals with the [Areial Empire](factions/ae.md) has rapidly expedited that process.
+
+After a while, Unium got tired of Reguleo reviving the greenies each season, so Reguleo and Spark took the decision to rename the faction to **"Venvian Company"**
 
 ## Achievements
 
