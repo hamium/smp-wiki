@@ -93,7 +93,10 @@ extra:
 
 extra_css:
   - assets/stylesheets/colors.css
-  
+
+plugins:
+  - glightbox
+
 markdown_extensions:
   - pymdownx.snippets
   - attr_list
