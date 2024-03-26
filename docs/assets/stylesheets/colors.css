@@ -27,7 +27,7 @@
 img {
     height: auto;
     width: auto;
-    border: 1px solid #9f9f9f;
+    border: 0px;
     border-radius: 8px;
     transition: transform ease-in-out 0.3s;
 }

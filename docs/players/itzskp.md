@@ -1,6 +1,6 @@
 ## Details
 <div class="grid" markdown>
-![ItzSKP](https://cravatar.eu/helmhead/4a7ce099-1263-4b76-ba20-46816fd1464b/100.png){align=left}
+![ItzSKP](https://cravatar.eu/helmhead/0d4a6175-48cd-4934-8708-01ef403613ee/100.png){align=left}
 **:fontawesome-brands-discord:{ title="Discord" }** king_skp<br>
 **:material-minecraft:{ title="Minecraft IGN" }** ItzSKP<br>
 :fontawesome-solid-flag:{ title="Season 3" } Salmon Faction <br>
@@ -10,7 +10,7 @@
 ![ItzSKP](https://cdn.discordapp.com/avatars/1111067959935377428/25914b0ce2c9879e1e48888a4ee8fe1d.webp?width=120&height=120){align=left}
 **:fontawesome-solid-location-dot:{ title="Location" }** India<br>
 **:fontawesome-solid-person:{ title="Ethnicity" }** Indian<br>
-**:material-cake:{ title="Birth Date" }** 31ˢᵗ February<br>
+**:material-cake:{ title="Birthday" }** 31ˢᵗ February<br>
 { .card }
 </div>
 
@@ -34,11 +34,32 @@ Some of his personal notable doings so far are:<br>
 2. When interviewed, he said that he made "*a cool iron farm*". A faction member, ItsLodus, has an equal claim over it as well.<br>
 3. He plans to build a "*Spanish Kingdom*" with 3 villages and a castle.<br>
 Exams have hindered his progress this season.<br>
+<div class="grid cards" markdown>
 <figure markdown="span">
-  ![SKP's Base](https://github.com/hamium/factions-wiki/blob/main/docs/assets/imgs/skpbase.png?raw=true){ width="300" border-radius="5" }
-  <figcaption>SKP's Base on Season 4</figcaption>
+  ![The Start of a Spanish Village](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ae/complex.png?raw=true){width=80px}
+  <figcaption><i>The Start of a Spanish Village</i></figcaption>
 </figure>
 
+<figure markdown="span">
+  ![The First House](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ae/house.png?raw=true){width=80px}
+  <figcaption>The Trading Hall</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![A Crack in the Mountainl](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ae/portal.png?raw=true){width=80px}
+  <figcaption>A Crack in the Mountain</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![A Cozy Cabin](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ae/villager.png?raw=true){width=80px}
+  <figcaption>A Cozy Cabin</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Two Mortal Enemies](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ae/cabin.png?raw=true){width=80px}
+  <figcaption>Two Mortal Enemies</figcaption>
+</figure>
+</div>
 ##### :material-lead-pencil: Other Details
 SKP lives in Hong Kong, China. He does art and drawing to some extent.<br>
 

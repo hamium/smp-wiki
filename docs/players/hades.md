@@ -34,18 +34,16 @@ Some of his achievements this season include:<br>
 2. He has spent 7 hours of real-life time to trap a zombie for his iron farm (it broke after 2 minecraft days)<br>
 3. His plans for the season is to expand onto the Floating Isles, as well as, re-create the ***DS*** base over the Mushroom Cliffs.<br>
 Exams have hindered his progress this season, as was the case with [***ItzSKP***](../players/itzskp.md). <br>
-<div class="grid" markdown>
+<div class="grid cards" markdown>
 <figure markdown="span">
-  ![The Water Tower](https://github.com/xylium117/factions-wiki/blob/patch-16/docs/assets/imgs/ie1.png?raw=true" width="80px" ){ width="80" }
+  ![The Water Tower](https://github.com/xylium117/factions-wiki/blob/patch-16/docs/assets/imgs/ie1.png?raw=true){width=80px}
   <figcaption>The Water Tower</figcaption>
 </figure>
-{ .card }
 
 <figure markdown="span">
-  ![The Trading Hall](https://github.com/xylium117/factions-wiki/blob/patch-16/docs/assets/imgs/ie2.png?raw=true" width="80px" ){ width="80" }
+  ![The Trading Hall](https://github.com/xylium117/factions-wiki/blob/patch-16/docs/assets/imgs/ie2.png?raw=true){width=80px}
   <figcaption>The Trading Hall</figcaption>
 </figure>
-{ .card }
 </div>
 
 
