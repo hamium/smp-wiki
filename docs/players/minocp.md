@@ -8,7 +8,7 @@
 **:fontawesome-solid-flag:{ title="Season 4" }** <b><i><a href="../factions/ie.md">Internet Explorers</a></i></b>
 { .card }
 
-![Hades](https://cdn.discordapp.com/avatars/692771725334675526/d170d7566e8cfc118fd64193382864cc.webp?width=120&height=120){align=left}
+![Hades](https://cdn.discordapp.com/avatars/741938536214691891/467a985837b356c2d19d29462483ad79.webp?width=120&height=120){align=left}
 **:fontawesome-solid-location-dot:{ title="Location" }** Indonesia<br>
 **:fontawesome-solid-person:{ title="Ethnicity" }** Indonesian<br>
 **:material-cake:{ title="Birthday" }** 31ˢᵗ February<br>
@@ -35,16 +35,14 @@ Some of his achievements this season include:<br>
 The IE Base is the place he calls home on the server, alongside several other IE members.
 <div class="grid" markdown>
 <figure markdown="span">
-  ![The Water Tower](https://github.com/xylium117/factions-wiki/blob/patch-16/docs/assets/imgs/ie1.png?raw=true" width="80px" ){ width="80" }
+  ![The Water Tower](https://github.com/xylium117/factions-wiki/blob/patch-16/docs/assets/imgs/ie1.png?raw=true" width="80px" ){ .card }
   <figcaption>The Water Tower</figcaption>
 </figure>
-{ .card }
 
 <figure markdown="span">
-  ![The Trading Hall](https://github.com/xylium117/factions-wiki/blob/patch-16/docs/assets/imgs/ie2.png?raw=true" width="80px" ){ width="80" }
+  ![The Trading Hall](https://github.com/xylium117/factions-wiki/blob/patch-16/docs/assets/imgs/ie2.png?raw=true" width="80px" ){ .card }
   <figcaption>The Trading Hall</figcaption>
 </figure>
-{ .card }
 </div>
 
 
