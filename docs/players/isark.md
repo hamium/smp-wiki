@@ -10,7 +10,7 @@
 ![Hades](https://cdn.discordapp.com/avatars/702471256473075722/fa483f7381b89192373cf679f580ee91.png?width=120&height=120){align=left}
 **:fontawesome-solid-location-dot:{ title="Location" }** India<br>
 **:fontawesome-solid-person:{ title="Ethnicity" }** Indian<br>
-**:material-cake:{ title="Birth Date" }** 4ᵀᴴ August<br>
+**:material-cake:{ title="Birthday" }** 4ᵀᴴ August<br>
 { .card }
 </div>
 
