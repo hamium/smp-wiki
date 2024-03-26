@@ -33,14 +33,14 @@ Some of his achievements this season include:<br>
 1. He was the first person on the server to obtain the original Dragon Egg in [***The End***]() event<br>
 2. He was the first person to complete his personal World Map, or explore every chunk on the server.<br>
 The IE Base is the place he calls home on the server, alongside several other IE members.
-<div class="grid" markdown>
+<div class="grid cards" markdown>
 <figure markdown="span">
-  ![The Water Tower](https://github.com/xylium117/factions-wiki/blob/patch-16/docs/assets/imgs/ie1.png?raw=true" width="80px" ){ .card }
+  ![The Water Tower](https://github.com/xylium117/factions-wiki/blob/patch-16/docs/assets/imgs/ie1.png?raw=true" width="80px" )
   <figcaption>The Water Tower</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![The Trading Hall](https://github.com/xylium117/factions-wiki/blob/patch-16/docs/assets/imgs/ie2.png?raw=true" width="80px" ){ .card }
+  ![The Trading Hall](https://github.com/xylium117/factions-wiki/blob/patch-16/docs/assets/imgs/ie2.png?raw=true" width="80px" )
   <figcaption>The Trading Hall</figcaption>
 </figure>
 </div>
