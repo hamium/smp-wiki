@@ -36,12 +36,12 @@ Some of his achievements this season include:<br>
 Exams have hindered his progress this season, as was the case with [***ItzSKP***](../players/itzskp.md). <br>
 <div class="grid cards" markdown>
 <figure markdown="span">
-  ![The Water Tower](https://github.com/xylium117/factions-wiki/blob/patch-16/docs/assets/imgs/ie1.png?raw=true" width="80px" )
+  ![The Water Tower](https://github.com/xylium117/factions-wiki/blob/patch-16/docs/assets/imgs/ie1.png?raw=true){width=80px}
   <figcaption>The Water Tower</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![The Trading Hall](https://github.com/xylium117/factions-wiki/blob/patch-16/docs/assets/imgs/ie2.png?raw=true" width="80px" )
+  ![The Trading Hall](https://github.com/xylium117/factions-wiki/blob/patch-16/docs/assets/imgs/ie2.png?raw=true){width=80px}
   <figcaption>The Trading Hall</figcaption>
 </figure>
 </div>
