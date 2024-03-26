@@ -12,6 +12,8 @@
 - <b><i><a href="../players/isark.md">iSark</a></i></b>   <br>
 - <b><i><a href="../players/minocp.md">Minocp</a></i></b><br>
 - Giangvu<br>
+- Captain (unium's gf)<br>
+- Lolrussy<br>
 - ManBoyThing <br>
 - buk_08 <br>
 ___
