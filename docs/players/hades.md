@@ -34,30 +34,22 @@ Some of his achievements this season include:<br>
 2. He has spent 7 hours of real-life time to trap a zombie for his iron farm (it broke after 2 minecraft days)<br>
 3. His plans for the season is to expand onto the Floating Isles, as well as, re-create the ***DS*** base over the Mushroom Cliffs.<br>
 Exams have hindered his progress this season, as was the case with [***ItzSKP***](../players/itzskp.md). <br>
-<div class="carousel_wrapper"> 
-  <div  class="carousel">
-    <div class="slide one">
-        <img src="https://github.com/xylium117/factions-wiki/blob/patch-16/docs/assets/imgs/ie1.png?raw=true" width="80px" />
-        <div class="card-btn-container">
-            <a href="/">
-            <span>The Water Tower</span>
-            </a>
-        </div>
-    </div>
- 
-     <div class="slide two">
-       <img src="https://github.com/xylium117/factions-wiki/blob/patch-16/docs/assets/imgs/ie2.png?raw=true" width="80px" />
-       <div class="card-btn-container">
-            <a href="/">
-            <span>The Trading Hall</span>
-            </a>
-        </div>
-    </div> 
- </div>
+<div class="grid" markdown>
+<figure markdown="span">
+  ![The Water Tower](https://github.com/xylium117/factions-wiki/blob/patch-16/docs/assets/imgs/ie1.png?raw=true" width="80px" ){ width="80" }
+  <figcaption>The Water Tower</figcaption>
+</figure>
+{ .card }
+
+<figure markdown="span">
+  ![The Trading Hall](https://github.com/xylium117/factions-wiki/blob/patch-16/docs/assets/imgs/ie2.png?raw=true" width="80px" ){ width="80" }
+  <figcaption>The Trading Hall</figcaption>
+</figure>
+{ .card }
 </div>
 
 
 ##### :material-lead-pencil: Other Details
-Hades lives in India, and he is around 17-18 years old.  He has severe hormonal tendencies, as is evident from recent images in the hall of shame.
+Hades lives in India, and he is around 17-18 years old.  He has severe hormonal tendencies, as is evident from images in the hall of shame.
 
 > *"I made a spotify playlist for you ham. Its called love my femboy ham"*<br> - Hades, trying to increase his message count on the server.
