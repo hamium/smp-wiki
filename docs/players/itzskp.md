@@ -51,12 +51,12 @@ Exams have hindered his progress this season.<br>
 </figure>
 
 <figure markdown="span">
-  ![A Cozy Cabin](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ae/villager.png?raw=true){width=80px}
+  ![A Cozy Cabin](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ae/cabin.png?raw=true){width=80px}
   <figcaption>A Cozy Cabin</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Two Mortal Enemies](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ae/cabin.png?raw=true){width=80px}
+  ![Two Mortal Enemies](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ae/villager.png?raw=true){width=80px}
   <figcaption>Two Mortal Enemies</figcaption>
 </figure>
 </div>
