@@ -8,7 +8,7 @@
 { .card }
 </div>
 
-###### :octicons-people-16: Members
+##### :octicons-people-16: Members
 - buk_08  <br>
 - Eobard_Thawne_   <br>
 - JackSmith8661<br>
@@ -16,7 +16,7 @@
 - KnightPens12 <br>
 ___
 
-###### :octicons-goal-16: Goal
+##### :octicons-goal-16: Goal
 The dream to conquer began with The Banana Syndicate, but alas, fate dealt a harsh blow. With its leader, Jack, deserting the faction, it crumbled into ruins. One by one, members have departed, leaving behind shattered dreams and broken alliances. However, amidst the chaos, the Syndicate still holds onto its ultimate ambition: to amass wealth beyond measure, where conflicts can be resolved with the clink of coins rather than the clash of swords. <br>
 
 ##### :octicons-trophy-16: Achievements
