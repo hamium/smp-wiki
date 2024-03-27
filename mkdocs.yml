@@ -62,7 +62,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
     edit: material/file-edit-outline
-    view: material/file-eye-outline
+    view: material/eye
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
