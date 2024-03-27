@@ -1,30 +1,31 @@
 ## The Banana Syndicate 
 <div class="grid" markdown>
-![Banana Syndicate Logo](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/bs/bs.png){.logo}
-**:fontawesome-solid-flag:{ title="Season 4" }** The Banana Syndicate<br>
+![a](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/bs/bs.png?raw=true){.logo}
+**:material-flag:{ title="Name" }** The Banana Syndicate<br>
 **:material-grave-stone:{ title="Status" }** Disbanded<br>
-**:material-format-quote-close:{ title="Motto" }** <b><i>"When life gives you bananas, make a syndicate."</i></b><br>
-**:material-pencil:{ title="Description" }** <b><i>"The Banana Syndicate is infused with the power of radiation. Beware its glow!"</i></b>  
+**:material-resize:{ title="Size" }** Faction<br>
+**:material-creation:{ title="Existance" }** [Season 4](../seasons/s4.md)
 { .card }
 </div>
 
-##### :octicons-people-16: Members
-- buk_08  <br>
-- <b><i><a href="../players/isark.md">iSark</a></i></b>   <br>
+##### :material-account-supervisor: Members
+- buk_08<br>
+- Eobard_Thawne_ [(iSark)](../players/isark.md)<br>
 - JackSmith8661<br>
 - SouthernNorth<br>
 - KnightPens12 <br>
-___
 
-##### :octicons-goal-16: Goal
+=======
+##### :material-target: Goal
 The dream to conquer began with The Banana Syndicate, but alas, fate dealt a harsh blow. With its leader, Jack, deserting the faction, it crumbled into ruins. One by one, members have departed, leaving behind shattered dreams and broken alliances. However, amidst the chaos, the Syndicate still holds onto its ultimate ambition: to amass wealth beyond measure, where conflicts can be resolved with the clink of coins rather than the clash of swords. <br>
 
-##### :octicons-trophy-16: Achievements
-Despite its downfall, The Banana Syndicate did achieve some feats. A small sustainable base was established - a villager breeder and a trading hall were constructed, and most members were equipped out with diamond armor, a testament to their dedication and prowess in the realm. Elsewhere, iSark set up a sister base at a castle, and he set up infrastructure for a thriving kingdom - with an overly producing villager breeder and iron farm. <br>
+##### :material-trophy: Achievements
+Despite its downfall, The Banana Syndicate did achieve some feats. A small sustainable base was established - a villager breeder and a trading hall were constructed, and most members were equipped out with diamond armor, a testament to their dedication and prowess in the realm. Elsewhere, Eobard_Thawne_ set up a sister base at a castle, and he set up infrastructure for a thriving kingdom - with an overly producing villager breeder and iron farm. <br>
 
 ##### The Fall of The Base
-Unfortunately, the base fell into disuse as the scourge of "exams" wreaked havoc among the members. Forced to prioritize their studies, many of the Syndicate's members became refugees, seeking solace and sanctuary in other factions, leaving behind memories of what could have been. The 2 most prominent members joined a rival faction, [***Internet Explorers***](ie.md), enticed with offers from [***Hades***](../players/hades.md) and his crew, while the owner, Jack, who himself had separated from the [***IE***](ie.md) chose to abandon his quest for glory. He swore on revenge - that [***IE***](ie.md) shall fall before the might of potassium, but for now, he must rebuild the foundations elsewhere. <br>
-What must be done with the base? It shall provide sanctuary to all needy travellers and new players, offering them sustenance and lending them a helping hand. But the crumbling walls of the Syndicate shall always emnate the morose symphony of failure and disappointment...<br>
+Unfortunately, the base fell into disuse as the scourge of "exams" wreaked havoc among the members. Forced to prioritize their studies, many of the Syndicate's members became refugees, seeking solace and sanctuary in other factions, leaving behind memories of what could have been. The 2 most prominent members joined a rival faction, [Internet Explorers](ie.md), enticed with offers from [Hades](../players/hades.md) and his crew, while the owner, Jack, who himself had separated from the [IE](ie.md) chose to abandon his quest for glory.<br>
+He swore on revenge - that [IE](ie.md) shall fall before the might of potassium, but for now, he must rebuild the foundations elsewhere. What must be done with the base? It shall provide sanctuary to all needy travellers and new players, offering them sustenance and lending them a helping hand. But the crumbling walls of the Syndicate shall always emnate the morose symphony of failure and disappointment...<br>
+
 <div class="grid cards" markdown>
 <figure markdown="span">
   ![The Crumbling Trading Hall](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/bs/deserted.png?raw=true){ .card }
