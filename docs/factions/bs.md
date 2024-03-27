@@ -1,10 +1,10 @@
 ## The Banana Syndicate 
 <div class="grid" markdown>
-![Banana Syndicate Logo](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/bs/bs.png?raw=true){align=left}
+<img width=120 src="https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/bs/bs.png?raw=true">{align=left}
 **:material-flag:{ title="Name" }** The Banana Syndicate<br>
-**:material-grave-stone:{ title="Status" }** Disbanded
-**:material-format-quote-close:{ title="Motto -  When life gives you bananas, make a syndicate." }** <b><i>"When life gives you bananas, make a syndicate."</i></b><br>
-**:material-pencil:{ title="Description" }** <b><i>"The Banana Syndicate is infused with the power of radiation. Beware its glow!"</i></b>  
+**:material-grave-stone:{ title="Status" }** Disbanded<br>
+**:material-resize:{ title="Size" }** Faction<br>
+**:material-creation:{ title="Existance" }** [Season 4](../seasons/s4.md)
 { .card }
 </div>
 
