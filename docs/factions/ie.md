@@ -3,6 +3,8 @@
 ![IE Logo](https://github.com/xylium117/factions-wiki/blob/main/docs/assets/imgs/ie/ie%20(1).png?raw=true){ align=left }
 **:fontawesome-solid-flag:{ title="Season 4" }** The Internet Explorers<br>
 **:fontawesome-brands-internet-explorer:{ title="Status" }** Active<br>
+**:material-resize:{ title="Size" }** Faction<br>
+**:material-creation:{ title="Existence" }** <b><i><a href="../seasons/s4.md">Season 4</a></i></b>  <br>
 **:material-format-quote-close:{ title="Motto" }** <b><i>"Oil up, coming in 5."</i></b><br>
 **:material-pencil:{ title="Description" }** <b><i>"We explore..."</i></b>  
 { .card }
