@@ -19,7 +19,7 @@
 - buk_08 <br>
 ___
 
-###### :octicons-goal-16: GOAL
+##### :octicons-goal-16: GOAL
 The Internet Explorers was created by [***ham***](../staff/ham.md) and [***claniverse***](../staff/realclay.md) with the original goal of exploring the entirety of the server. However, the two leaders separated from their own faction, and went on to create the [***Opera Institute of China***](oc.md). [***Hades***](../players/hades.nd) was unanimously elected the leader, and the faction's ultimate goal was ammended to "becoming the most powerful and influential faction on the server". <br>
 
 ##### :octicons-trophy-16: ACHIEVEMENTS
@@ -29,7 +29,7 @@ The IE is one of the most successful factions on the server. It has achieved man
 3. The IE was the first faction to obtain 2 beacons, and the second faction to obtain a beacon.<br>
 4. Keeping true to its explorer roots, the IE became the first faction to explore the entire world and load every chunk within world border. Currently, the three members who have achieved the complete World Map on Xaero's World Map are Minocp, iSark, and Hades, in order.<br>
 
-###### :fontawesome-solid-tent: THE BASE
+##### :fontawesome-solid-tent: THE BASE
 The main base of IE is a floating village in the middle of the ocean - the "*Raft Simulator*". It is where all the farms and the trading hall are located. The village is located between the "*Mushroom Cliffs*" and the "*Floating Isles*". The nearest land is around 250 blocks from the edge of the base. <br>
 
 ##### ALLIANCES
