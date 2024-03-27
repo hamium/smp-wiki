@@ -1,6 +1,6 @@
 ## The Banana Syndicate 
 <div class="grid" markdown>
-<img width=120 src="https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/bs/bs.png?raw=true">{align=left}
+![a](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/bs/bs.png?raw=true){align=left}
 **:material-flag:{ title="Name" }** The Banana Syndicate<br>
 **:material-grave-stone:{ title="Status" }** Disbanded<br>
 **:material-resize:{ title="Size" }** Faction<br>
