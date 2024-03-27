@@ -60,9 +60,6 @@ a.md-logo img {
     border: none;
 }
 
-.logo img{
-    width: 100px;
-    height: 100px;
-    border: 0px;
-    border-radius: 8px;
+html {
+  scroll-behavior: smooth;
 }
