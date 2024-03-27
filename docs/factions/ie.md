@@ -1,8 +1,8 @@
  ## Internet Explorers
 <div class="grid" markdown>
-![IE Logo](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ie/ie.png?raw=true){align=left}
+![IE Logo](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ie/ie.png?raw=true){.logo}
 **:fontawesome-solid-flag:{ title="Season 4" }** The Internet Explorers<br>
-**:fontawesome-brands-internet-explorer:{ title="Status" }** Active
+**:fontawesome-brands-internet-explorer:{ title="Status" }** Active<br>
 **:material-pencil:{ title="Description" }** <b><i>"We explore..."</i></b>  
 { .card }
 </div>
@@ -42,32 +42,32 @@ What must be done with the base? It shall provide sanctuary to all needy travell
 ##### Rise of the Ashenborn
 A single player, SouthernNorth, was left with the ideals of the Syndicate - burdened with its aspirations, yet inspired to thrive. JackSmith returned to this endeavour once more, and the reinvigorated duo established civilization on the hillside. Thus was formed the town of Ashenborn, rising like a phoenix from the ashes of The Syndicate. The hillside of Ashenborn will emnate like a beacon of hope, the  virtues and ideals that the Syndicate. 
 <figure markdown="span">
-  ![A Treacherous Climb](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ashenborn/ashenborn1.png?raw=true){ .card }
+  ![A Treacherous Climb](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ashenborn/ashenborn1.png?raw=true){ width=80px }
   <figcaption>A Treacherous Climb</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![A Friendly Drink](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ashenborn/ashenborn2.png?raw=true){ .card }
+  ![A Friendly Drink](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ashenborn/ashenborn2.png?raw=true){ width=80px }
   <figcaption>A Friendly Drink</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![A Lone Cabin](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ashenborn/ashenborn3.png?raw=true){ .card }
+  ![A Lone Cabin](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ashenborn/ashenborn3.png?raw=true){ width=80px }
   <figcaption>A Lone Cabin</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Under the Starry Night](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ashenborn/ashenborn6.png){ .card }
+  ![Under the Starry Night](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ashenborn/ashenborn6.png?raw=true){ width=80px }
   <figcaption>Under the Starry Night</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![A Thriving Town](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ashenborn/ashenborn5.png){ .card }
+  ![A Thriving Town](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ashenborn/ashenborn5.png?raw=true){ width=80px }
   <figcaption>A Thriving Town</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Portal](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ashenborn/ashenborn4.png){ .card }
+  ![Portal](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ashenborn/ashenborn4.png?raw=true){ width=80px }
   <figcaption>A Portal in the Woods</figcaption>
 </figure>
 </div>
