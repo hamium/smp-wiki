@@ -5,7 +5,7 @@
 **:material-minecraft:{ title="Minecraft IGN" }** Minocp<br>
 **:fontawesome-solid-flag:{ title="Season 2" }** The Greenies <br>
 **:fontawesome-solid-flag:{ title="Season 3" }** DRON <br>
-**:fontawesome-solid-flag:{ title="Season 4" }** [***Internet Explorers***](../../factions/ie.md)<b><i><a href="../../factions/ie.md">Internet Explorers</a></i></b>
+**:fontawesome-solid-flag:{ title="Season 4" }** [***Internet Explorers***](../../factions/ie)<b><i><a href="../../factions/ie.md">Internet Explorers</a></i></b>
 { .card }
 
 ![Hades](https://cdn.discordapp.com/avatars/741938536214691891/467a985837b356c2d19d29462483ad79.webp?width=120&height=120){align=left}
