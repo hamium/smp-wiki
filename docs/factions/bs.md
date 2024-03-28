@@ -3,14 +3,14 @@
 **:material-flag:{ title="Name" }** The Banana Syndicate<br>
 **:material-grave-stone:{ title="Status" }** Disbanded<br>
 **:material-resize:{ title="Size" }** Faction<br>
-**:material-creation:{ title="Existence" }** <b><i><a href="../seasons/s4.md">Season 4</a></i></b>  <br>
+**:material-creation:{ title="Existence" }** <b><i><a href="../../seasons/s4">Season 4</a></i></b>  <br>
 **:material-pencil:{ title="Description" }** <b><i>"BANANA has radiation."</i></b>  
 { .card }
 </div>
 
 ##### :octicons-people-16: Members
 - buk_08<br>
-- [***iSark***](/players/isark.md)<br>
+- [***iSark***](../../players/isark)<br>
 - JackSmith8661<br>
 - SouthernNorth<br>
 - KnightPens12 <br>
