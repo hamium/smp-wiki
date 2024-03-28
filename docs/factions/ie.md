@@ -20,20 +20,20 @@
 - buk_08 <br>
 ___
 
-##### :octicons-goal-16: GOAL
+##### :octicons-goal-16: Goal
 The Internet Explorers was created by [***ham***](../staff/ham.md) and [***claniverse***](../staff/realclay.md) with the original goal of exploring the entirety of the server. However, the two leaders separated from their own faction, and went on to create the [***Opera Institute of China***](oc.md). [***Hades***](../players/hades.nd) was unanimously elected the leader, and the faction's ultimate goal was ammended to "becoming the most powerful and influential faction on the server". <br>
 
-##### :octicons-trophy-16: ACHIEVEMENTS
+##### :octicons-trophy-16: Achievements
 The IE is one of the most successful factions on the server. It has achieved many notable feats, such as:<br>
 1. It pioneered industrial farms to add to its prosperity. The server's first Raid Farm, Guardian Farm, Blaze Farm, Slime Farm, and Gold Farm are all properties of the IE.<br>
 2. Personal achievements of its members add to its own timeline of event. The IE holds the possession of the original Dragon Egg, and the most number of elytras. <br>
 3. The IE was the first faction to obtain 2 beacons, and the second faction to obtain a beacon.<br>
 4. Keeping true to its explorer roots, the IE became the first faction to explore the entire world and load every chunk within world border. Currently, the three members who have achieved the complete World Map on Xaero's World Map are Minocp, iSark, and Hades, in order.<br>
 
-##### :fontawesome-solid-tent: THE BASE
+##### :fontawesome-solid-tent: The Base
 The main base of IE is a floating village in the middle of the ocean - the "*Raft Simulator*". It is where all the farms and the trading hall are located. The village is located between the "*Mushroom Cliffs*" and the "*Floating Isles*". The nearest land is around 250 blocks from the edge of the base. <br>
 
-##### ALLIANCES
+##### Alliances
 The Internet Explorers, or the IE created new alliances with two of the strongest factions on the server - [***Aerial Empire***](ae.md) and [***Sovereign Lands of Noxus***](slon.md). This proved to catalyze its growth as the resources were used profitably by all three factions. Many structures were built in collaboration, like the first Gold Farm, the first Slime Farm, etc. While the Aerial Empire was an official ally with the IE, the creator of SLON (Sovereing Lands of Noxus), [***unium***](../staff/unium.md) describes their alliance as "me and hades chill fr".<br>
 
 ##### The End Event
