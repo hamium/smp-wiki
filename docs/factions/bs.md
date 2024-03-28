@@ -1,4 +1,3 @@
-## The Banana Syndicate 
 <div class="grid" markdown>
 ![Banana Syndicate](https://github.com/xylium117/factions-wiki/blob/main/docs/assets/imgs/bs/bs%20(1).png?raw=true){ align=left }
 **:material-flag:{ title="Name" }** The Banana Syndicate<br>
