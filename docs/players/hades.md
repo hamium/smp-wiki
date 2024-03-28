@@ -5,13 +5,13 @@
 **:fontawesome-brands-discord:{ title="Discord (Alt)" }** dismybish0404<br>
 **:material-minecraft:{ title="Minecraft IGN" }** Hades<br>
 **:fontawesome-solid-flag:{ title="Season 3" }** DRON <br>
-**:fontawesome-solid-flag:{ title="Season 4" }** <b><i><a href="../factions/ie.md">Internet Explorers</a></i></b>
+**:fontawesome-solid-flag:{ title="Season 4" }** <b><i><a href="../../factions/ie/">Internet Explorers</a></i></b>
 { .card }
 
 ![Hades](https://cdn.discordapp.com/avatars/692771725334675526/d170d7566e8cfc118fd64193382864cc.webp?width=120&height=120){align=left}
 **:fontawesome-solid-location-dot:{ title="Location" }** India<br>
 **:fontawesome-solid-person:{ title="Ethnicity" }** Indian<br>
-**:material-cake:{ title="Birth Date" }** 16ᵀᴴ May<br>
+**:material-cake:{ title="Birthday" }** 16ᵀᴴ May<br>
 { .card }
 </div>
 
