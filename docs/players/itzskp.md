@@ -4,7 +4,7 @@
 **:fontawesome-brands-discord:{ title="Discord" }** king_skp<br>
 **:material-minecraft:{ title="Minecraft IGN" }** ItzSKP<br>
 :fontawesome-solid-flag:{ title="Season 3" } Salmon Faction <br>
-:fontawesome-solid-flag:{ title="Season 4" } <b><i><a href="../factions/ae.md">Aerial Empire</a></i></b>
+:fontawesome-solid-flag:{ title="Season 4" } <b><i><a href="../../factions/ae/">Aerial Empire</a></i></b>
 { .card }
 
 ![ItzSKP](https://cdn.discordapp.com/avatars/1111067959935377428/25914b0ce2c9879e1e48888a4ee8fe1d.webp?width=120&height=120){align=left}
