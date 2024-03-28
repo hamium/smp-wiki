@@ -1,4 +1,3 @@
- ## Internet Explorers
 <div class="grid" markdown>
 ![IE Logo](https://github.com/xylium117/factions-wiki/blob/main/docs/assets/imgs/ie/ie%20(1).png?raw=true){ align=left }
 **:fontawesome-solid-flag:{ title="Season 4" }** The Internet Explorers<br>
