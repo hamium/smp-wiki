@@ -3,16 +3,16 @@
 **:fontawesome-solid-flag:{ title="Season 4" }** The Internet Explorers<br>
 **:fontawesome-brands-internet-explorer:{ title="Status" }** Active<br>
 **:material-resize:{ title="Size" }** Faction<br>
-**:material-creation:{ title="Existence" }** <b><i><a href="../seasons/s4.md">Season 4</a></i></b>  <br>
+**:material-creation:{ title="Existence" }** <b><i><a href="../../seasons/s4">Season 4</a></i></b>  <br>
 **:material-format-quote-close:{ title="Motto" }** <b><i>"Oil up, coming in 5."</i></b><br>
 **:material-pencil:{ title="Description" }** <b><i>"We explore..."</i></b>  
 { .card }
 </div>
 
 ##### :octicons-people-16: Members
-- <b><i><a href="/players/hades.md">Hades</a></i></b>  <br>
-- <b><i><a href="/players/isark.md">iSark</a></i></b>   <br>
-- <b><i><a href="/players/minocp.md">Minocp</a></i></b><br>
+- <b><i><a href="../../players/hades">Hades</a></i></b>  <br>
+- <b><i><a href="../../players/isark">iSark</a></i></b>   <br>
+- <b><i><a href="../../players/minocp">Minocp</a></i></b><br>
 - Giangvu<br>
 - Captain <br>
 - Lolrussy<br>
