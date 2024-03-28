@@ -49,4 +49,4 @@ The IE Base is the place he calls home on the server, alongside several other IE
 ##### :material-lead-pencil: Other Details
 Minocp lives in Indonesia. He is the best PVPer on the server, and has ample hours in CS:GO and other FPS games.
 
-> *"I made a spotify playlist for you ham. Its called love my femboy ham"*<br> - Hades, trying to increase his message count on the server.
+> *"idk"*<br> - Minocp, on giving a quote on the wiki.
