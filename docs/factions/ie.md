@@ -13,7 +13,7 @@
 - <b><i><a href="../../players/hades">Hades</a></i></b>  <br>
 - <b><i><a href="../../players/isark">iSark</a></i></b>   <br>
 - <b><i><a href="../../players/minocp">Minocp</a></i></b><br>
-- Giangvu<br>
+- <b><i><a href="../../players/giangvu">Giangvu</a></i></b><br>
 - Captain <br>
 - Lolrussy<br>
 - ManBoyThing <br>
@@ -46,6 +46,6 @@ A devious plot by [***ItzSKP***](../players/itzskp.md) was to explore all the An
 Two new members left the ruins of the [Banana Syndicate](bs.md) and joined the IE - buk_08 and [***iSark***](../players/isark.md). They built numerous farms around the IE Base. buk_08 created the server's first Guardian Farm and Blaze Farm. iSark fixed the broken Villager Breeders, Iron Farm, and created String Duper, Cobblestone farm, and the server's first Slime Farm. To achieve world domination, the IE must achieve self-sufficiency of resources.<br>
 
 ##### The Island Project and Land Upgrade
-Living on water on a floating village is difficult. Large vats of water must be cleared to build up infrastructure. Giangvu took up the project of transforming the floating village into a replica of the Gibraltar Islands. This would give an impetus to creative builds, and not just mechanical farms. Near the Floating Isles, he created a replica of the Bikini Atoll.<br>
+Living on water on a floating village is difficult. Large vats of water must be cleared to build up infrastructure. [Giangvu](../players/giangvu.md) took up the project of transforming the floating village into a replica of the Gibraltar Islands. This would give an impetus to creative builds, and not just mechanical farms. Near the Floating Isles, he created a replica of the Bikini Atoll.<br>
 
 
