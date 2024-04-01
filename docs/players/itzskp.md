@@ -57,11 +57,11 @@ Exams have hindered his progress this season.<br>
   <figcaption>A Cozy Cabin</figcaption>
 </figure>
 
-<figure markdown="span">
+    <figure markdown="span">
   ![Two Mortal Enemies](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ae/villager.png?raw=true){width=80px}
   <figcaption>Two Mortal Enemies</figcaption>
-</figure>
-</div>
+    </figure>
+  </div>
 ///
 /// tab | Lore
 balls
@@ -69,6 +69,10 @@ balls
 /// tab | third
 nuts
 ///
+=== "tab 1"
+  ha
+=== "tab 2"
+  he
 
 ##### :material-lead-pencil: Other Details
 SKP lives in Hong Kong, China. He does art and drawing to some extent.<br>
