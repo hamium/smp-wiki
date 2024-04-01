@@ -22,12 +22,12 @@
 ___
 
 ##### :octicons-goal-16: Goal
-The Greenie Company was created originally by Derpsion in Season 1 with the original goal of being a faction that controlled the economy. Since then, the Greenie Company (renamed as Venevian Company in [***Season 4***](../../seasons/s4.md)) has always remained neutral in conflicts, yet one of the most influentials trading factions on the server.<br>
+The Greenie Company was created originally by Derpsion in Season 1 with the original goal of being a faction that controlled the economy. Since then, the Greenie Company (renamed as Venevian Company in [***Season 4***](../seasons/s4.md)) has always remained neutral in conflicts, yet one of the most influentials trading factions on the server.<br>
 
 ##### :octicons-trophy-16: Achievements
-The Venevian Company saw little success in [***Season 4***](../../seasons/s4.md), partially due to general inactivity of its members. <br>
+The Venevian Company saw little success in [***Season 4***](../seasons/s4.md), partially due to general inactivity of its members. <br>
 1. A sustainable base was constructed, and most members built their houses on the island.<br>
-2. A few sales of andesite to the [***Areial Empire***](../../factions/ae.md) increasde the faction's material wealth to several stacks of iron and diamonds.<br>
+2. A few sales of andesite to the [***Areial Empire***](../factions/ae.md) increasde the faction's material wealth to several stacks of iron and diamonds.<br>
 
 ##### :fontawesome-solid-tent: The Base
 The main base of VC is a small spruce island in the middle of the ocean. The large dock is the distinguishable feature of the *"Port of VC"*. Further inland, there are signs of civilization, with Leo's house, SparkSteel's hut, and other infrastructure.<br>
@@ -63,9 +63,9 @@ Mid-late Season 3, Reguleo with Targaros and SparkSteel8, and eventually Derpsio
 <br>
 The leaders at the time were Reguleo, Derpsion, and SparkSteel8, making the "Council". Eventually, near the end of Season 3, Targaros was promoted to be part of it and Derpsion retired of his powers as member of the Council, partially due to his inactivity).<br>
 <br>
-After a while, the faction had become quite established. A new member at the time, [***Aji***](../../staff/aji.md) decided to join the faction as well. Meanwhile, Targaros had set out to create a [***clock tower***](/structures/season3/tgbase.md) that would serve as the main base of the Greenies, housing the team's nether portal, various chests, a map of the area and the music reserves. Targ, being the main builder of the faction, had also helped to establish several members' bases, namely Reguleo's house and Fraderz's house. She also helped to make the Greenies sponsored V.A.P.E shop, which would have state-of-the-art smoking facilities, until it shot down due to inability to stop smoke-thieves and normal robbers. In addition to this, she also made a Fireworks shop, which was mainly supplied with gunpowder and paper from the faction's farms, also built by her.<br>
+After a while, the faction had become quite established. A new member at the time, [***Aji***](../staff/aji.md) decided to join the faction as well. Meanwhile, Targaros had set out to create a [***clock tower***](/structures/season3/tgbase.md) that would serve as the main base of the Greenies, housing the team's nether portal, various chests, a map of the area and the music reserves. Targ, being the main builder of the faction, had also helped to establish several members' bases, namely Reguleo's house and Fraderz's house. She also helped to make the Greenies sponsored V.A.P.E shop, which would have state-of-the-art smoking facilities, until it shot down due to inability to stop smoke-thieves and normal robbers. In addition to this, she also made a Fireworks shop, which was mainly supplied with gunpowder and paper from the faction's farms, also built by her.<br>
 <br>
-Meanewhile, [***Aji***](../../staff/aji.md) decided to leave the Greenies and joined DRON. However, she kept her base open to The Greenies members, as a sign of companionship with her former faction. <br>
+Meanewhile, [***Aji***](../staff/aji.md) decided to leave the Greenies and joined DRON. However, she kept her base open to The Greenies members, as a sign of companionship with her former faction. <br>
 <br>
 The Greenies were closely allied with DRON, with the two factions sharing each other's farms and cooperating. Greenie members were always allowed within DRON territory, proof of this is Targaros worked closely with Slimsomai to build his Cana Bar in LM. <br>
 <br>
@@ -75,10 +75,10 @@ Targaros planned to make a castle as a more proper base than the clock tower, bu
 
 
 ##### Rebranding and Revival
-At the start of Season 4, [***Reguleo***](../../staff/leo.md) decided to rebrand and restructure the Greenie Company, renaming the faction to "Venevian Company". It was a throwback to his old faction he had created, the "Venevian Company", before the start of the Greenies in [***Season 3***](../../seasons/s3.md). Reguleo established the official VC base on a small spruce island, and the base was rapidly expanded by Fraderz and SparkSteel8. Targaros however, decided not to rejoin the faction.<br>
+At the start of Season 4, [***Reguleo***](../staff/leo.md) decided to rebrand and restructure the Greenie Company, renaming the faction to "Venevian Company". It was a throwback to his old faction he had created, the "Venevian Company", before the start of the Greenies in [***Season 3***](../seasons/s3.md). Reguleo established the official VC base on a small spruce island, and the base was rapidly expanded by Fraderz and SparkSteel8. Targaros however, decided not to rejoin the faction.<br>
 
 ##### The Ban of SparkSteel8 and 1vzxx
-SparkSteel8, a Council member of the Venevian Company, was banned from the server on March 19, 2024. The reason for the ban was ban-evading; SparkSteel8 was the alt-account of *zemonarch* who was previously banned for annoying the staff. SparkSteel had tried to contribute to this same wiki using his original Github account, before switching to a new one. However, he would soon be unbanned and given a second chance, but he could not join or be closely related to any existing faction. therefore, he was removed from the Council member position of the VC, and continued as a solo player. He would later join [***Ashenborn***](../../factions/bs.md).<br>
+SparkSteel8, a Council member of the Venevian Company, was banned from the server on March 19, 2024. The reason for the ban was ban-evading; SparkSteel8 was the alt-account of *zemonarch* who was previously banned for annoying the staff. SparkSteel had tried to contribute to this same wiki using his original Github account, before switching to a new one. However, he would soon be unbanned and given a second chance, but he could not join or be closely related to any existing faction. therefore, he was removed from the Council member position of the VC, and continued as a solo player. He would later join [***Ashenborn***](../factions/bs.md).<br>
 1vzxx was an active member of VC when he joined the server. However, he was banned for using a racial slur. <br>
 
 ##### Decline
