@@ -1,9 +1,9 @@
 <div class="grid" markdown>
 ![Commie Ghosts](https://github.com/hamium/factions-wiki/blob/main/docs/assets/imgs/cg.png?raw=true){ align=left }
-**:fontawesome-solid-flag:{ title="Name" }** Commie Ghosts<br>
+**:fontawesome-solid-flag:{ title="Name" }** The Communist Ghosts<br>
 **:material-grave-stone:{ title="Status" }** Disbanded<br>
 **:material-resize:{ title="Size" }** Faction<br>
-**:material-axis-arrow:{ title="Location" }** X:-2330 Z:-2000<br>
+**:material-axis-arrow:{ title="Location" }** X:400 Z:2150<br>
 **:material-creation:{ title="Existence" }** <b><i><a href="../../seasons/s4">Season 4</a></i></b>  <br>
 **:material-pencil:{ title="Description" }** <b><i>"We boo and are communists"</i></b>  
 { .card }
@@ -13,61 +13,28 @@
 - [***Giangvu***](../../players/giangvu)<br>
 - [***iSark***](../../players/isark)<br>
 - lolrussy<br>
+- ManBoyThing<br>
+- GoldenWarrior<br>
+- buk_08<br>
 ---
 
 ##### :octicons-goal-16: Goal
-The dream to conquer began with The Banana Syndicate, but alas, fate dealt a harsh blow. With its leader, Jack, deserting the faction, it crumbled into ruins. One by one, members have departed, leaving behind shattered dreams and broken alliances. However, amidst the chaos, the Syndicate still holds onto its ultimate ambition: to amass wealth beyond measure, where conflicts can be resolved with the clink of coins rather than the clash of swords. <br>
+The Communist Ghosts (CG) was the only Communist nation ever made in Season 4. <br>
 
 ##### :octicons-trophy-16: Achievements
-Despite its downfall, The Banana Syndicate did achieve some feats. A small sustainable base was established - a villager breeder and a trading hall were constructed, and most members were equipped out with diamond armor, a testament to their dedication and prowess in the realm. Elsewhere, Eobard_Thawne_ set up a sister base at a castle, and he set up infrastructure for a thriving kingdom - with an overly producing villager breeder and iron farm. <br>
+The CG faction was the first faction to dissolve, particularly due to inactivity of its members. They had the least used Trading Hall.<br>
 
-##### The Fall of The Base
-Unfortunately, the base fell into disuse as the scourge of "exams" wreaked havoc among the members. Forced to prioritize their studies, many of the Syndicate's members became refugees, seeking solace and sanctuary in other factions, leaving behind memories of what could have been. The 2 most prominent members joined a rival faction, [***Internet Explorers***](ie.md), enticed with offers from [***Hades***](../players/hades.md) and his crew, while the owner, Jack, who himself had separated from the [***IE***](ie.md) chose to abandon his quest for glory.<br>
-He swore on revenge - that [***IE***](ie.md) shall fall before the might of potassium, but for now, he must rebuild the foundations elsewhere. What must be done with the base? It shall provide sanctuary to all needy travellers and new players, offering them sustenance and lending them a helping hand. But the crumbling walls of the Syndicate shall always emnate the morose symphony of failure and disappointment...<br>
+##### Problems
+The Communist Ghosts' downfall was attributed to a significant lack of active players, because all the other players had began working on their nation already. Enticed with the rise of multiple factions like [***Internet Explorers***](../factions/ie.md) and [***Aerial Empire***](../factions/ae.md), most members defected towards the active factions. Their leader, lolrussy, was also inactive meaning the CG had no leadership to follow. The final problem is [***ItzSKP***](../players/itzskp.md)'s continuous criticising of the nation, which finally lead to their downfall.
 
-<div class="grid cards" markdown>
-<figure markdown="span">
-  ![The Crumbling Trading Hall](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/bs/deserted.png?raw=true){ width=80px }
-  <figcaption>The Crumbling Trading Hall</figcaption>
-</figure>
+##### Defections of the Members
+[***iSark***](../players/isark.md) was the first player to leave the CG. He joined the [***Banana Syndicate***](../factions/bs.md) with JackSmith. buk_08 followed by example as well. He would however carry the CG tag in-game for the longest time, due to an error by the staff.
+[***Giangvu***](../players/giangv.md), after much deliberation, left to join [***Internet Explorers***](../factions/ie.md). ManBoyThing also did the same.
 
-<figure markdown="span">
-  ![A Desolate Entrance](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/bs/entrance.png?raw=true){ width=80px }
-  <figcaption>A Desolate Entrance</figcaption>
-</figure>
-</div>
+##### Decline
+Lolrussy had to dissolve the CG faction, for it had fallen below the threshold of minimum 3 members. He joined [***Internet Explorers***](../factions/ie.md) as well, but remained quite inactive. GoldenWarrior was the last remnant of the Communist Ghost faction, and he was banned only recently for using a racial slur. Thus, the cottage on a hill which the CG faction called home would be desolate for the forseeable future.  <br>
 
-##### Rise of the Ashenborn
-A single player, SouthernNorth, was left with the ideals of the Syndicate - burdened with its aspirations, yet inspired to thrive. JackSmith returned to this endeavour once more, and the reinvigorated duo established civilization on the hillside. Thus was formed the town of Ashenborn, rising like a phoenix from the ashes of The Syndicate. The hillside of Ashenborn will emnate like a beacon of hope, the  virtues and ideals that the Syndicate. <br>
-<div class="grid cards" markdown>
-<figure markdown="span">
-  ![A Treacherous Climb](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ashenborn/ashenborn1.png?raw=true){ width=80px }
-  <figcaption>A Treacherous Climb</figcaption>
-</figure>
+##### Attempt at Revival
+With the permission of [***Giangvu***](../players/giangv.md), two rookie players, Adam (his real-life friend) and Vector, occupied the CG Base. Lolrussy had transferred all responsibilities of the disbanded faction to Giangvu, before becoming inactive once more.
 
-<figure markdown="span">
-  ![A Friendly Drink](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ashenborn/ashenborn2.png?raw=true){ width=80px }
-  <figcaption>A Friendly Drink</figcaption>
-</figure>
-
-<figure markdown="span">
-  ![A Lone Cabin](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ashenborn/ashenborn3.png?raw=true?raw=true){ width=80px }
-  <figcaption>A Lone Cabin</figcaption>
-</figure>
-
-<figure markdown="span">
-  ![Under the Starry Night](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ashenborn/ashenborn6.png?raw=true){ width=80px }
-  <figcaption>Under the Starry Night</figcaption>
-</figure>
-
-<figure markdown="span">
-  ![A Thriving Town](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ashenborn/ashenborn5.png?raw=true){ width=80px }
-  <figcaption>A Thriving Town</figcaption>
-</figure>
-
-<figure markdown="span">
-  ![Portal](https://github.com/xylium117/factions-wiki/blob/patch-18/docs/assets/imgs/ashenborn/ashenborn4.png?raw=true){ width=80px }
-  <figcaption>A Portal in the Woods</figcaption>
-</figure>
-</div>
 
