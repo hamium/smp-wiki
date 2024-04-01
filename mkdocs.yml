@@ -79,6 +79,7 @@ theme:
       primary: custom
   features:
     - content.tooltips
+    - content.tabs.link
     - navigation.top
     - navigation.sections
     - navigation.indexes
