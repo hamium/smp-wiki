@@ -62,7 +62,6 @@ Exams have hindered his progress this season.<br>
   <figcaption>Two Mortal Enemies</figcaption>
 </figure>
 </div>
-
 === "Lore"
 balls
 
