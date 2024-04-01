@@ -41,6 +41,9 @@ Tired of living on a *Floating Village* with no ground to build up from, Giangvu
 </figure>
 </div>
 
+##### ::fontawesome-solid-circle-info:: Trivia
+Giangvu has a secret that only 7 players on the server knows about.
+
 ##### :material-lead-pencil: Other Details
 Giangvu has confirmed that "Gianguu" is actually his birth name. He also plays the piano and has an addiction to all things related to the Navy. He prefers the US Navy and it is evident from his builds.
 
