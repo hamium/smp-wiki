@@ -1,6 +1,6 @@
 <div class="grid" markdown>
 ![Banana Syndicate](https://github.com/xylium117/factions-wiki/blob/main/docs/assets/imgs/bs/bs%20(1).png?raw=true){ align=left }
-**:fontawesome-solid-flag: { title="Name" }** The Banana Syndicate<br>
+**:fontawesome-solid-flag:{ title="Name" }** The Banana Syndicate<br>
 **:material-grave-stone:{ title="Status" }** Disbanded<br>
 **:material-resize:{ title="Size" }** Faction<br>
 **:material-creation:{ title="Existence" }** <b><i><a href="../../seasons/s4">Season 4</a></i></b>  <br>
