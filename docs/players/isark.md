@@ -4,7 +4,7 @@
 **:fontawesome-brands-discord:{ title="Discord" }** xylium17<br>
 **:material-minecraft:{ title="Minecraft IGN" }** Eobard_Thawne<br>
 **:fontawesome-solid-flag:{ title="Season 3" }** DRON<br>
-**:fontawesome-solid-flag:{ title="Season 4" }** <b><i><a href="../factions/ie.md">Internet Explorers</a></i></b>
+**:fontawesome-solid-flag:{ title="Season 4" }** <b><i><a href="../../factions/ie/">Internet Explorers</a></i></b>
 { .card }
 
 ![Hades](https://cdn.discordapp.com/avatars/702471256473075722/fa483f7381b89192373cf679f580ee91.png?width=120&height=120){align=left}

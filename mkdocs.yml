@@ -11,7 +11,7 @@ nav:
       - Areial Empire: factions/ae.md
       - Sky Crew: factions/sc.md
       - Banana Syndicate: factions/bs.md
-      - Greenie Company: factions/gc.md
+      - Venevian Company: factions/gc.md
       - Internet Explorers: factions/ie.md
       - Opera Institute Of China: factions/oc.md
       - Sovereign Lands of Noxus: factions/slon.md
@@ -32,14 +32,15 @@ nav:
           - kaeud_: staff/kaeud.md
           - claniverse: staff/realclay.md
       - Regular players:
-          - Hydra72: players/hydra.md
-          - ItzSKP: players/itzskp.md
-          - Hades: players/hades.md
-          - MinoCP: players/minocp.md
-          - iSark: players/isark.md
-          - Targaros: staff/targ.md
           - ajipotato: staff/aji.md
+          - Giangvu: players/giangvu.md
+          - Hades: players/hades.md
+          - Hydra72: players/hydra.md
+          - iSark: players/isark.md
+          - ItzSKP: players/itzskp.md
           - mireu: staff/mireu.md
+          - Minocp: players/minocp.md
+          - Targaros: staff/targ.md
   - Events:
       - Marriage (Aji & Mireu): events/1.md
   - Seasons:
