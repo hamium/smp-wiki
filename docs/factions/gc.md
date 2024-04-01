@@ -5,7 +5,7 @@
 **:material-resize:{ title="Size" }** Faction<br>
 **:material-axis-arrow:{ title="Location" }** X:-1233 Z:2930<br>
 **:material-creation:{ title="Existence" }** Season 1-2, <b><i><a href="../../seasons/s3">Season 3</a></i></b>, <b><i><a href="../../seasons/s4">Season 4</a></i></b>  <br>
- **:material-pencil:{ title="Description" }** <b><i>"We desire to be one of the most influential nations on the server. We remain neutral, but will fight if needed."</i></b>  
+ **:material-pencil:{ title="Description" }** <b><i>"We desire to be one of the most influential nations on the server."</i></b>  
 { .card }
 </div>
 
