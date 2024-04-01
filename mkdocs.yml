@@ -102,6 +102,7 @@ extra_css:
   - assets/stylesheets/colors.css
 
 markdown_extensions:
+  - pymdownx.blocks.tab
   - pymdownx.snippets
   - attr_list
   - md_in_html
