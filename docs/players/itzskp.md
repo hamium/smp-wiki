@@ -45,13 +45,13 @@ In a realm where colors dance and dreams take shape, the Kingdom of Colorido sta
 *Ciudad Principal (Main City):* At the heart of Colorido lies its bustling main city, a hub of commerce and culture. Magnificent palaces, bustling marketplaces, and enchanting plazas fill the cityscape, reflecting the kingdom's rich heritage.<br>
 <br>
 *Distrito Industrial (Industrial District):* The clang of hammers and the steady hum of machinery resonate through the industrial district. Skilled artisans and craftsmen produce exquisite goods, from intricate textiles to fine metalwork.
-<br>
+<br><br>
 **Mount Cicatriz and Its Secrets:**<br>
 Overlooking the kingdom stands Mount Cicatriz, a majestic mountain with a tale of its own. Perched atop this towering peak is Castillo De Luz (Castle of Light), a grand fortress that serves as the seat of power for the ruler of Colorido King SKP. From its heights, the castle offers great views of the entire kingdom.<br>
 <br>
 Beneath the castle, a mysterious scar-like cave winds its way through the heart of Mount Cicatriz. Legend speaks of ancient secrets concealed within its depths, guarded by Criatura.
-<br>
-*Lago de las Sombras (Lake of Shadows):*<br>
+<br><br>
+**Lago de las Sombras (Lake of Shadows):**<br>
 In the shimmering waters of a vast lake known as Lago de las Sombras, lurks a legendary monster named Criatura. With tentacles which have the darkest sculk blocks and eyes that are made of 2 conduits, Criatura is both feared and revered by the inhabitants of Colorido. Some people also call it the GOD OF DISPAIR and if you are cursed by him then the person cursed will be infected with sculk and kill all his enemies and friends but if the person's willpower is quite strong he can stop himself from killing his friends, people also say that Criatura has a egg which looks simular to the Dragon Egg. Tales of its majestic presence and formidable power have been passed down through generations, adding to the kingdom's rich tapestry of folklore and legend.<br>
 <br>
 **El Coliseo de los Cielos (Colosseum of the Skies):**
