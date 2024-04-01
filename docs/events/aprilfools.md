@@ -17,7 +17,9 @@ QualityArmory will remain in the server. The weapon shop would be open until Apr
 
 ##### :simple-shopify: Weapon Shop
 The Weapon Shop will be enabled soon. Prices of the guns will be fixed according to their rarity and power. The accepted currency is [**Emerald**](https://minecraft.wiki/w/Emerald).
+
 ---
+
 #### Events
 This part of the article will be filled as more info is gathered.
 
