@@ -1,6 +1,6 @@
 <div class="grid" markdown>
 ![Banana Syndicate](https://github.com/xylium117/factions-wiki/blob/main/docs/assets/imgs/bs/bs%20(1).png?raw=true){ align=left }
-**:material-flag:{ title="Name" }** The Banana Syndicate<br>
+**:fontawesome-solid-flag: { title="Name" }** The Banana Syndicate<br>
 **:material-grave-stone:{ title="Status" }** Disbanded<br>
 **:material-resize:{ title="Size" }** Faction<br>
 **:material-creation:{ title="Existence" }** <b><i><a href="../../seasons/s4">Season 4</a></i></b>  <br>
@@ -16,10 +16,10 @@
 - KnightPens12 <br>
 ---
 
-##### :octicons-goal-16: GOAL
+##### :octicons-goal-16: Goal
 The dream to conquer began with The Banana Syndicate, but alas, fate dealt a harsh blow. With its leader, Jack, deserting the faction, it crumbled into ruins. One by one, members have departed, leaving behind shattered dreams and broken alliances. However, amidst the chaos, the Syndicate still holds onto its ultimate ambition: to amass wealth beyond measure, where conflicts can be resolved with the clink of coins rather than the clash of swords. <br>
 
-##### :octicons-trophy-16: ACHIEVEMENTS
+##### :octicons-trophy-16: Achievements
 Despite its downfall, The Banana Syndicate did achieve some feats. A small sustainable base was established - a villager breeder and a trading hall were constructed, and most members were equipped out with diamond armor, a testament to their dedication and prowess in the realm. Elsewhere, Eobard_Thawne_ set up a sister base at a castle, and he set up infrastructure for a thriving kingdom - with an overly producing villager breeder and iron farm. <br>
 
 ##### The Fall of The Base
