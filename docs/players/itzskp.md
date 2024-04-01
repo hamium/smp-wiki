@@ -34,6 +34,7 @@ Some of his personal notable doings so far are:<br>
 2. When interviewed, he said that he made "*a cool iron farm*". A faction member, ItsLodus, has an equal claim over it as well.<br>
 3. He plans to build a "*Spanish Kingdom*" with 3 villages and a castle.<br>
 Exams have hindered his progress this season.<br>
+
 === "Kingdom of Colorido"
 <div class="grid cards" markdown>
 <figure markdown="span">
@@ -61,8 +62,11 @@ Exams have hindered his progress this season.<br>
   <figcaption>Two Mortal Enemies</figcaption>
 </figure>
 </div>
+
 === "Lore"
 balls
+
+
 ##### :material-lead-pencil: Other Details
 SKP lives in Hong Kong, China. He does art and drawing to some extent.<br>
 
