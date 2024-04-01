@@ -3,6 +3,7 @@
 **:fontawesome-solid-flag:{ title="Name" }** The Banana Syndicate<br>
 **:material-grave-stone:{ title="Status" }** Disbanded<br>
 **:material-resize:{ title="Size" }** Faction<br>
+**:material-axis-arrow:{ title="Location" }** X:-2330 Z:-2000<br>
 **:material-creation:{ title="Existence" }** <b><i><a href="../../seasons/s4">Season 4</a></i></b>  <br>
 **:material-pencil:{ title="Description" }** <b><i>"BANANA has radiation."</i></b>  
 { .card }
