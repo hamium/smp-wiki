@@ -1,9 +1,9 @@
-![image](https://github.com/hamium/factions-wiki/assets/68391648/794e33d6-cb61-40be-959f-38c1b1732e7c)<div class="grid" markdown>
+<div class="grid" markdown>
 ![VC Logo](https://github.com/hamium/factions-wiki/blob/main/docs/assets/imgs/vc/vc.png?raw=true){ align=left }
 **:fontawesome-solid-flag:{ title="Name" }** The Venevian Company<br>
 **:material-grave-stone:{ title="Status" }** Disbanded<br>
 **:material-resize:{ title="Size" }** Faction<br>
-**::material-axis-arrow::{ title="Location" }** X:-1233 Z:2930<br>
+**:material-axis-arrow:{ title="Location" }** X:-1233 Z:2930<br>
 **:material-creation:{ title="Existence" }** Season 1-2, <b><i><a href="../../seasons/s3">Season 3</a></i></b>, <b><i><a href="../../seasons/s4">Season 4</a></i></b>  <br>
  **:material-pencil:{ title="Description" }** <b><i>"We desire to be one of the most influential nations on the server. We remain neutral, but will fight if needed."</i></b>  
 { .card }
