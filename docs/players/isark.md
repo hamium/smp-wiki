@@ -25,8 +25,9 @@ In Season 3, he joined [leunium's](../staff/unium.md) faction - DRON. He spent m
 ##### Season 4
 
 In season 4, he joined ***lolrussy's*** Commie Ghosts faction. However, the faction disbanded due to inactivity. Afterwards, he joined the [***Banana Syndicate***](../factions/bs.md). However, that faction also disbanded due to inactivity. Lastly, he joined the [***Internet Explorers***](../factions/ie.md), which would remain his current faction.Some of his notable achievements were : <br>
-1. He fixed the broken iron farms at the base, and create  a new string duper.  <br>
-2. He cleared 2 Ancient Cities in search of the fabled Silence Armor Trim, with the help of [***Minocp***](../players/minocp.md) and [***ItzSKP***](../players/itzskp.md) <br>
+1. He created the fastest iron farm on the server.  <br>
+2. He is one of the few players to have the extremely rare Silence Trim. <br>
+3. He became a Helper in the shortest time possible. This promotion to Staff was mainly due to his contributions to wiki and overall knowledge about programming.<br> 
 
 ##### :material-lead-pencil: Other Details
 iSark lives in India. He also plays club-level football.
