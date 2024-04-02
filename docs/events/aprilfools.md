@@ -21,5 +21,7 @@ The Weapon Shop will be enabled soon. Prices of the guns will be fixed according
 ---
 
 #### Events
+##### Stockpiling Emeralds 
+OHIO_STATE and [***iSark***](../players/isark.md) began stockpiling emeralds to collect all possible types of guns. At the end of April 1, ~16 stacks of emerald blocks were collected from the [***IE***](.../factions/ie.md) Raid Farm, and trading with villagers. The End Reset was delayed for 2 days.
 This part of the article will be filled as more info is gathered.
 
