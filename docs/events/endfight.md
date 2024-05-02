@@ -39,13 +39,5 @@ The following players were active participants in the End Fight :
 Due to the influx of members on the same dimension, there was a lot of lag during the event. Some complained about their ping and FPS, the latter can be attributed to the Nullscape Plugin for advanced End terrain generation. The issue would persist with other members, like [***Hades***](../players/hades.md) who complained about chunks loading too slow.
 
 ##### Timeline of Incidents
-``` mermaid
-graph LR
-  A[Server is started] --> B[Everyone jumps through the Portal];
-  B --> C[There are issues of server lag and FPS-drop];
-  C --> D[Mutual agreement between members to call a truce];
-  D --> E[Hades and others make an attempt at "bedbombing" the Dragon];
-  E --> F[ItzReal dies from bedbombing attempt];
-  F -> G[Ham_ confirms that Dragon Eggs respawn]
-```
+![Event Timeline](https://github.com/hamium/factions-wiki/blob/main/docs/assets/imgs/flowchart%20of%20event.png?raw=true){ width=200px }
 
