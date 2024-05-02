@@ -45,7 +45,7 @@ graph LR
   B --> C[There are issues of server lag and FPS-drop];
   C --> D[Mutual agreement between members to call a truce];
   D --> E[Hades and others make an attempt at "bedbombing" the Dragon];
-  E --> F[ItzReal dies from "bedbombing" attempt];
+  E --> F[ItzReal dies from bedbombing attempt];
   F -> G[Ham_ confirms that Dragon Eggs respawn]
 ```
 
