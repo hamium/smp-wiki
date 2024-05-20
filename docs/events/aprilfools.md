@@ -16,7 +16,8 @@
 [***QualityArmory***](https://www.spigotmc.org/resources/quality-armory.47561/) will remain in the server. The weapon shop was open until April 12, 2024. After April 8, 2024, all PVP with the guns would be banned, but the players would be allowed to keep their guns.<br>
 
 ##### :simple-shopify: Weapon Shop
-The Weapon Shop was enabled on 2nd April. The accepted currency is [**Emerald**](https://minecraft.wiki/w/Emerald).
+The Weapon Shop was enabled on 2nd April. The accepted currency is [**Emerald**](https://minecraft.wiki/w/Emerald). The Shop is located at **X:450 Y:-1825**
+![Weapon Shop](https://github.com/hamium/factions-wiki/blob/main/docs/assets/imgs/image.png?raw=true){ width=100px }
 [**FOR 10 EMERALDS EACH**]<br>
  - Molotov<br>
  - Incendiary<br>
