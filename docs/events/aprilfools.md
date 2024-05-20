@@ -16,61 +16,9 @@
 [***QualityArmory***](https://www.spigotmc.org/resources/quality-armory.47561/) will remain in the server. The weapon shop was open until April 12, 2024. After April 8, 2024, all PVP with the guns would be banned, but the players would be allowed to keep their guns.<br>
 
 ##### :simple-shopify: Weapon Shop
-The Weapon Shop was enabled on 2nd April. The accepted currency is [**Emerald**](https://minecraft.wiki/w/Emerald). The Shop is located at **X:450 Y:-1825**
+The Weapon Shop was enabled on 2nd April. The accepted currency is [**Emerald**](https://minecraft.wiki/w/Emerald). The Shop is located at: **X:450 Y:-1825**.
 ![Weapon Shop](https://github.com/hamium/factions-wiki/blob/main/docs/assets/imgs/image.png?raw=true){ width=100px }
-[**FOR 10 EMERALDS EACH**]<br>
- - Molotov<br>
- - Incendiary<br>
- - Flashbang<br>
- - Grenade<br>
- - Smoke<br>
- - Spear<br>
-<br>
-[**FOR 20 EMERALDS EACH**]<br>
- - Glock-19<br>
- - Desert Eagle (D-Eagle)<br>
- - Lightsaber of any color<br>
- - Lazerrifle™<br>
- - FN Five-Seven<br>
-<br>
- [**FOR 48 EMERALDS EACH**]<br>
- - AK-47<br>
- - M16<br>
- - M4A1-S<br>
- - Uzi<br>
- - Sawed Off Shotgun<br>
- - FAMAS<br>
- - MAC-10<br>
- - CZ 75<br>
- - MK-19 Grenade Launcher <br>
- - IMI Galil<br>
- - MP 40<br>
- - Heckler & Koch UMP<br>
- - M40 Sniper Rifle<br>
- - M79 Thumper<br>
- - Remington<br>
- - RPK<br>
- - SKS<br>
-<br>
- [**FOR 1 BLOCK OF EMERALDS EACH**]<br>
- - Heckler & Koch MP5<br>
- - AK-47U<br>
- - AWP<br>
- - SG-553<br>
- - Uzicorn™<br>
- - Barrett<br>
- - Musket<br>
- - DP-27<br>
- - M32-A1<br>
- - VZ-58<br>
- - Vera<br>
- - Skorpion™<br>
- - SPAS-12™<br>
-<br>
- [**FOR 3 BLOCKS OF EMERALDS EACH**]<br>
- - RPG<br>
- - Minigun<br>
- - CTAR-21<br>
+Prices of guns can be found in a dedicated thread titled "Guns & Melee" in the [Discord server](https://discord.gg/pA2m9ywBG7)
 ---
 
 #### Events
