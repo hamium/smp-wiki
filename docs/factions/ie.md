@@ -34,6 +34,18 @@ The IE is one of the most successful factions on the server. It has achieved man
 ##### :fontawesome-solid-tent: The Base
 The main base of IE is a floating village in the middle of the ocean - the "*Raft Simulator*". It is where all the farms and the trading hall are located. The village is located between the "*Mushroom Cliffs*" and the "*Floating Isles*". The nearest land is around 250 blocks from the edge of the base. <br>
 
+<div class="grid cards" markdown>
+<figure markdown="span">
+  ![The IE Base](https://github.com/hamium/factions-wiki/blob/main/docs/assets/imgs/ie/ie1.png?raw=true){ width=80px }
+  <figcaption>The IE Base</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Trading Hall](https://github.com/hamium/factions-wiki/blob/main/docs/assets/imgs/ie/ie2.png?raw=true){ width=80px }
+  <figcaption>Trading Hall</figcaption>
+</figure>
+</div>
+
 ##### Alliances
 The Internet Explorers, or the IE created new alliances with two of the strongest factions on the server - [***Aerial Empire***](ae.md) and [***Sovereign Lands of Noxus***](slon.md). This proved to catalyze its growth as the resources were used profitably by all three factions. Many structures were built in collaboration, like the first Gold Farm, the first Slime Farm, etc. While the Aerial Empire was an official ally with the IE, the creator of SLON (Sovereing Lands of Noxus), [***unium***](../staff/unium.md) describes their alliance as "me and hades chill fr".<br>
 
@@ -48,20 +60,11 @@ Two new members left the ruins of the [***Banana Syndicate***](bs.md) and joined
 
 <div class="grid cards" markdown>
 <figure markdown="span">
-  ![The IE Base](https://github.com/hamium/factions-wiki/blob/main/docs/assets/imgs/ie/ie1.png?raw=true){ width=80px }
-  <figcaption>The IE Base</figcaption>
-</figure>
-
-<figure markdown="span">
-  ![Trading Hall](https://github.com/hamium/factions-wiki/blob/main/docs/assets/imgs/ie/ie2.png?raw=true){ width=80px }
-  <figcaption>Trading Hall</figcaption>
-</figure>
-
-<figure markdown="span">
   ![WAIFU Iron FARM](https://github.com/hamium/factions-wiki/blob/main/docs/assets/imgs/ie/waifu.png?raw=true){ width=80px }
   <figcaption>WAIFU Iron Farm</figcaption>
 </figure>
-
+</div>
+<div class="grid cards" markdown>
 <figure markdown="span">
   ![The Imprisoned Zombie](https://github.com/hamium/factions-wiki/blob/main/docs/assets/imgs/ie/inside2.png?raw=true){ width=80px }
   <figcaption>The Imprisoned Zombie</figcaption>
