@@ -1,5 +1,5 @@
 <div class="grid" markdown>
-![Central Intelligence Agency](https://github.com/xylium117/factions-wiki/blob/main/docs/assets/imgs/bs/bs%20(1).png?raw=true){ align=left }
+![Central Intelligence Agency](https://github.com/hamium/factions-wiki/blob/main/docs/assets/imgs/cia.png?raw=true){ align=left }
 **:fontawesome-solid-flag:{ title="Name" }** Central Intelligence Agency<br>
 **:material-grave-stone:{ title="Status" }** Disbanded<br>
 **:material-resize:{ title="Size" }** Faction<br>
