@@ -46,6 +46,32 @@ A devious plot by [***ItzSKP***](../players/itzskp.md) was to explore all the An
 ##### The Industrial Revolution
 Two new members left the ruins of the [***Banana Syndicate***](bs.md) and joined the IE - buk_08 and [***iSark***](../players/isark.md). They built numerous farms around the IE Base. buk_08 created the server's first Guardian Farm and Blaze Farm. iSark fixed the broken Villager Breeders, Iron Farm, and created String Duper, Cobblestone farm, and the server's first Slime Farm. To achieve world domination, the IE must achieve self-sufficiency of resources.<br>
 
+<div class="grid cards" markdown>
+<figure markdown="span">
+  ![The IE Base](https://github.com/hamium/factions-wiki/blob/main/docs/assets/imgs/ie/ie1.png?raw=true){ width=80px }
+  <figcaption>The IE Base</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Trading Hall](https://github.com/hamium/factions-wiki/blob/main/docs/assets/imgs/ie/ie2.png?raw=true){ width=80px }
+  <figcaption>Trading Hall</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![WAIFU Iron FARM](https://github.com/hamium/factions-wiki/blob/main/docs/assets/imgs/ie/waifu.png?raw=true){ width=80px }
+  <figcaption>WAIFU Iron Farm</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![The Imprisoned Zombie](https://github.com/hamium/factions-wiki/blob/main/docs/assets/imgs/ie/inside2.png?raw=true){ width=80px }
+  <figcaption>The Imprisoned Zombie</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Steampunk Logic](https://github.com/hamium/factions-wiki/blob/main/docs/assets/imgs/ie/inside1.png?raw=true){ width=80px }
+  <figcaption>Steampunk Logic</figcaption>
+</figure>
+</div>
 
 
 ##### The Island Project and Land Upgrade
