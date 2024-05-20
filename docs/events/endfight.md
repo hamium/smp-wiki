@@ -17,18 +17,18 @@ The End is opened and will remain open for the entirety of the season. It is sch
 The actual End Fight lasted 11 minutes exactly from the server restart after maintenance and the dragon's demise. Subsequently, a part of the members ventured to the Outer End Islands for Elytras and Shulker Shells.<br>
 
 ##### :material-account-supervisor: Participants
-The following players were active participants in the End Fight : 
-1. ManBoyThing
-2. [***Minocp***](../players/minocp.md)
-3. Ghost_Buster or ItzReal_meh
-4. [***ItzSKP***](../players/itzskp.md)
-5. OHIO_STATE
-6. [***kaeud_***](../staff/kaeud.md)
-7. [***Giangvu8709***](../players/giangvu.md)
-8. [***ham_***](../staff/ham.md) (on his alt)
-9. CarvedStone9720
-10. [***Hades***](../players/hades.md)
-11. [***Slimsiomai***](../staff/slim.md)
+The following players were active participants in the End Fight : <br>
+1. ManBoyThing<br>
+2. [***Minocp***](../players/minocp.md)<br>
+3. Ghost_Buster or ItzReal_meh<br>
+4. [***ItzSKP***](../players/itzskp.md)<br>
+5. OHIO_STATE<br>
+6. [***kaeud_***](../staff/kaeud.md)<br>
+7. [***Giangvu8709***](../players/giangvu.md)<br>
+8. [***ham_***](../staff/ham.md) (on his alt)<br>
+9. CarvedStone9720<br>
+10. [***Hades***](../players/hades.md)<br>
+11. [***Slimsiomai***](../staff/slim.md)<br>
 ---
 
 #### Events
