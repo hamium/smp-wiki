@@ -54,7 +54,7 @@ Beneath the castle, a mysterious scar-like cave winds its way through the heart 
 **Lago de las Sombras (Lake of Shadows):**<br>
 In the shimmering waters of a vast lake known as Lago de las Sombras, lurks a legendary monster named Criatura. With tentacles which have the darkest sculk blocks and eyes that are made of 2 conduits, Criatura is both feared and revered by the inhabitants of Colorido. Some people also call it the GOD OF DISPAIR and if you are cursed by him then the person cursed will be infected with sculk and kill all his enemies and friends but if the person's willpower is quite strong he can stop himself from killing his friends, people also say that Criatura has a egg which looks simular to the Dragon Egg. Tales of its majestic presence and formidable power have been passed down through generations, adding to the kingdom's rich tapestry of folklore and legend.<br>
 <br>
-**El Coliseo de los Cielos (Colosseum of the Skies):**
+**El Coliseo de los Cielos (Colosseum of the Skies):**<br>
 High atop another mountain, overlooking the kingdom and the sprawling forest below, stands El Coliseo de los Cielos. This ancient arena serves as a battleground for warriors and gladiators, where epic duels and grand tournaments are held in honor of the kingdom's heroes and champions. People say that the scar in Mount Cicatriz is made by a great champion's attack. 
 
 <div class="grid cards" markdown>
