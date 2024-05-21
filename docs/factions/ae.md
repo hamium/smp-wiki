@@ -1,4 +1,4 @@
-  <div class="grid" markdown>
+<div class="grid" markdown>
 ![AE Logo](https://github.com/hamium/factions-wiki/blob/main/docs/assets/imgs/ae/ae.png?raw=true){ align=left }
 **:fontawesome-solid-flag:{ title="Season 4" }** Aerial Empire<br>
 **:fontawesome-brands-internet-explorer:{ title="Status" }** Active<br>
