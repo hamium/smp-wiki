@@ -1,7 +1,7 @@
 site_name: hamiumWiki
-copyright: Copyright &copy; 2023 - 2024 hamium
+copyright: Copyright &copy; 2023 - 2024 hamiumSMP
 repo_url: https://github.com/hamium/smp-wiki
-repo_name: hamium/factions-wiki
+repo_name: hamium/smp-wiki
 edit_uri: edit/main/docs/
 
 nav:
