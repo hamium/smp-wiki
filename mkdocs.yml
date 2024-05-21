@@ -1,6 +1,6 @@
 site_name: hamiumWiki
 copyright: Copyright &copy; 2023 - 2024 hamium
-repo_url: https://github.com/hamium/factions-wiki
+repo_url: https://github.com/hamium/smp-wiki
 repo_name: hamium/factions-wiki
 edit_uri: edit/main/docs/
 
@@ -127,7 +127,7 @@ plugins:
       effect: zoom
       slide_effect: slide
   - git-committers:
-      repository: hamium/factions-wiki
+      repository: hamium/smp-wiki
       branch: main
   - git-revision-date-localized:
       enable_creation_date: false
