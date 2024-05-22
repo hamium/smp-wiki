@@ -1,4 +1,4 @@
- <div class="grid" markdown>
+<div class="grid" markdown>
 ![SLON Logo](https://github.com/hamium/smp-wiki/blob/main/docs/assets/imgs/slon/slon1.png?raw=true){ align=left }
 **:fontawesome-solid-flag:{ title="Season 4" }** Sovereign League of Noxus<br>
 **:material-grave-stone:{ title="Status" }** Disbanded<br>
@@ -41,6 +41,7 @@ The main base of SLON was near a Twighlight Forest, overlooking a lake, at one c
   ![Port of SLON](https://github.com/hamium/smp-wiki/blob/main/docs/assets/imgs/slon/port.png?raw=true){ width=80px }
   <figcaption>Port of Slon</figcaption>
 </figure>
+</div>
 
 ##### Alliances
 SLON had mutual alliances with [***Internet Explorers***](ie.md) and [***Aerial Empire***](ae.md). Despite that, they had their own Gold Farm, and autonomous Industrial District.<br>
