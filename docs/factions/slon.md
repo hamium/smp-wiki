@@ -1,7 +1,7 @@
  <div class="grid" markdown>
 ![SC Logo](https://github.com/hamium/smp-wiki/blob/main/docs/assets/imgs/sc/sc1.png?raw=true){ align=left }
 **:fontawesome-solid-flag:{ title="Season 4" }** The Sky Crew<br>
-**:fontawesome-brands-internet-explorer:{ title="Status" }** Disbanded<br>
+**:material-grave-stone:{ title="Status" }** Disbanded<br>
 **:material-resize:{ title="Size" }** Faction<br>
 **:material-creation:{ title="Existence" }** <b><i><a href="../../seasons/s4">Season 4</a></i></b>  <br>
 **:material-format-quote-close:{ title="Motto" }** <b><i>"From Above Oversee and Judge"</i></b><br>
