@@ -1,4 +1,4 @@
- <div class="grid" markdown>
+<div class="grid" markdown>
 ![SC Logo](https://github.com/hamium/smp-wiki/blob/main/docs/assets/imgs/sc/sc1.png?raw=true){ align=left }
 **:fontawesome-solid-flag:{ title="Season 4" }** The Sky Crew<br>
 **:fontawesome-brands-internet-explorer:{ title="Status" }** Active<br>
