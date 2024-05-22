@@ -6,7 +6,6 @@ edit_uri: edit/main/docs/
 
 nav:
   - Home: index.md
-  - Teams (Season 5):
   - Factions (Season 4):
       - CIA: factions/cia.md
       - Areial Empire: factions/ae.md
