@@ -5,13 +5,13 @@ This is the wiki mainly for the hamiumFactions community, containing information
 ## Quick links
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __Season 4__
+-   :material-clock-fast:{ .lg .middle } __Season 5__
 
     ---
 
     Information about the current season's structures, factions and more.
 
-    [:octicons-arrow-right-24: Go to Page](seasons/s4.md)
+    [:octicons-arrow-right-24: Go to Page](seasons/s5.md)
 
 -   :fontawesome-brands-markdown:{ .lg .middle } __Help Us__
 
