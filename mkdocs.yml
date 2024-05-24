@@ -7,7 +7,7 @@ edit_uri: edit/main/docs/
 nav:
   - Home: index.md
   - Factions: # Move everything to factions/[season]/[faction].md
-      - Season 5 (Latest): 
+      - Season 5 (Latest): extra/hamiummmo.md
       - Season 4:
           - CIA: factions/cia.md
           - Areial Empire: factions/ae.md
@@ -19,7 +19,7 @@ nav:
           - Opera Institute Of China: factions/oc.md
           - Sovereign Lands of Noxus: factions/slon.md
   - Structures: # Move everything to structures/[season]/[structure].md
-      - Season 5 (Latest):
+      - Season 5 (Latest): extra/hamiummmo.md
       - Season 4:
           - Spawn: structures/spawn_s4.md
           - Tavern Complex: structures/tavern_complex_s4.md
@@ -37,7 +37,7 @@ nav:
           - kaeud_: staff/kaeud.md
           - claniverse: staff/realclay.md
       - Regular Players: # Move to players/[season]/[players].md
-          - Season 5:
+          - Season 5: extra/hamiummmo.md
           - Season 4:
               - ajipotato: staff/aji.md
               - Giangvu: players/giangvu.md
@@ -48,7 +48,7 @@ nav:
               - Minocp: players/minocp.md
               - Targaros: staff/targ.md
   - Events: # Move to events/[season]/[event].md
-      - Season 5:
+      - Season 5: extra/hamiummmo.md
       - Season 4:
           - Marriage (Aji & Mireu): events/1.md
           - End Fight: events/endfight.md
@@ -63,14 +63,14 @@ nav:
       - hamiumMC Projects: # Move to extra/projects/[project].md
           - hamiumMMO: extra/hamiummmo.md
           - hammerMC: extra/hammermc.md
-              - Docs:
+              - Docs: extra/hamiummmo.md
           - hammerDiscord: extra/hammerdc.md
-              - Docs:
+              - Docs: extra/hamiummmo.md
       - Affiliated with hamiumMC: # Move to extra/affiliated/[affiliated].md
           - racks: extra/racks.md
       - Old hamiumMC: # Move to extra/cracked/[info].md
-          - What happened?:
-          - Why a new server?:
+          - What happened?: extra/hamiummmo.md
+          - Why a new server?: extra/hamiummmo.md
 theme:
   name: material
   logo: assets/imgs/logo.svg
