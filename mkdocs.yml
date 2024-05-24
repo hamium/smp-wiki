@@ -6,26 +6,29 @@ edit_uri: edit/main/docs/
 
 nav:
   - Home: index.md
-  - Factions (Season 4):
-      - CIA: factions/cia.md
-      - Areial Empire: factions/ae.md
-      - Sky Crew: factions/sc.md
-      - Banana Syndicate: factions/bs.md
-      - Venevian Company: factions/vc.md
-      - Internet Explorers: factions/ie.md
-      - Commie Ghosts: factions/cg.md
-      - Opera Institute Of China: factions/oc.md
-      - Sovereign Lands of Noxus: factions/slon.md
-  - Structures:
-      - Season 3:
-          - Lockheed Martin: structures/season3/lms3base.md
-          - The Greenies: structures/season3/tgbase.md
+  - Factions: # Move everything to factions/[season]/[faction].md
+      - Season 5 (Latest): 
+      - Season 4:
+          - CIA: factions/cia.md
+          - Areial Empire: factions/ae.md
+          - Sky Crew: factions/sc.md
+          - Banana Syndicate: factions/bs.md
+          - Venevian Company: factions/vc.md
+          - Internet Explorers: factions/ie.md
+          - Commie Ghosts: factions/cg.md
+          - Opera Institute Of China: factions/oc.md
+          - Sovereign Lands of Noxus: factions/slon.md
+  - Structures: # Move everything to structures/[season]/[structure].md
+      - Season 5 (Latest):
       - Season 4:
           - Spawn: structures/spawn_s4.md
           - Tavern Complex: structures/tavern_complex_s4.md
           - History Gazette HQ: structures/historygazette_hq_s4.md
+      - Season 3:
+          - Lockheed Martin: structures/season3/lms3base.md
+          - The Greenies: structures/season3/tgbase.md
   - Notable players:
-      - Staff:
+      - Staff: # Move all staff to players/[season]/[players].md
           - LeUnium: staff/unium.md
           - ham_: staff/ham.md
           - iSark: players/isark.md
@@ -33,37 +36,47 @@ nav:
           - Reguleo: staff/leo.md
           - kaeud_: staff/kaeud.md
           - claniverse: staff/realclay.md
-      - Regular players:
-          - ajipotato: staff/aji.md
-          - Giangvu: players/giangvu.md
-          - Hades: players/hades.md
-          - Hydra72: players/hydra.md
-          - ItzSKP: players/itzskp.md
-          - mireu: staff/mireu.md
-          - Minocp: players/minocp.md
-          - Targaros: staff/targ.md
-  - Events:
-      - Marriage (Aji & Mireu): events/1.md
-      - End Fight: events/endfight.md
-      - April Fools: events/aprilfools.md
-  - Seasons:
+      - Regular Players: # Move to players/[season]/[players].md
+          - Season 5:
+          - Season 4:
+              - ajipotato: staff/aji.md
+              - Giangvu: players/giangvu.md
+              - Hades: players/hades.md
+              - Hydra72: players/hydra.md
+              - ItzSKP: players/itzskp.md
+              - mireu: staff/mireu.md
+              - Minocp: players/minocp.md
+              - Targaros: staff/targ.md
+  - Events: # Move to events/[season]/[event].md
+      - Season 5:
+      - Season 4:
+          - Marriage (Aji & Mireu): events/1.md
+          - End Fight: events/endfight.md
+          - April Fools: events/aprilfools.md
+  - Seasons: # Move to season/[season].md
       - Season 1: seasons/s1.md
       - Season 2: seasons/s2.md
       - Season 3: seasons/s3.md
       - Season 4: seasons/s4.md
       - Season 5 (current): seasons/s5.md
-  - Extra:
-      - hamiumMMO: extra/hamiummmo.md
-      - hammerMC: extra/hammermc.md
-      - hammerDiscord: extra/hammerdc.md
-      - racks: extra/racks.md
-
+  - Extra: 
+      - hamiumMC Projects: # Move to extra/projects/[project].md
+          - hamiumMMO: extra/hamiummmo.md
+          - hammerMC: extra/hammermc.md
+              - Docs:
+          - hammerDiscord: extra/hammerdc.md
+              - Docs:
+      - Affiliated with hamiumMC: # Move to extra/affiliated/[affiliated].md
+          - racks: extra/racks.md
+      - Old hamiumMC: # Move to extra/cracked/[info].md
+          - What happened?:
+          - Why a new server?:
 theme:
   name: material
   logo: assets/imgs/logo.svg
   favicon: assets/imgs/logo.svg
   font:
-    text: Roboto
+    text: Inter
   icon:
     repo: fontawesome/brands/github
     edit: material/file-edit-outline
