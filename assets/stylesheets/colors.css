@@ -63,3 +63,14 @@ a.md-logo img {
 html {
   scroll-behavior: smooth;
 }
+
+p.desc {
+  font: bold 12px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 14px;
+  height:75px;
+  margin: 0px;
+  display: table-cell;
+  vertical-align: middle;
+  padding: 10px;
+  border: 1px solid #f00;
+}
