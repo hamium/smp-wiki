@@ -64,12 +64,16 @@ html {
   scroll-behavior: smooth;
 }
 
-.desc {
-  line-height: 14px;
-  height:75px;
-  margin: 0px;
-  display: table-cell;
-  vertical-align: middle;
-  padding: 10px;
-  border: 1px solid #f00;
+.grid1 {
+  display: flex;
+  align-items: center;
 }
+
+.card1 {
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
