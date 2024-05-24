@@ -64,8 +64,7 @@ html {
   scroll-behavior: smooth;
 }
 
-p.desc {
-  font: bold 12px "Helvetica Neue", Helvetica, Arial, sans-serif;
+.desc {
   line-height: 14px;
   height:75px;
   margin: 0px;
