@@ -50,9 +50,10 @@ nav:
   - Events: 
       - Season 5: extra/hamiummmo.md
       - Season 4:
-          - Marriage (Aji & Mireu): events/1.md
           - End Fight: events/endfight.md
           - April Fools: events/aprilfools.md
+      - Season 3:
+          - Marriage (Aji & Mireu): events/1.md
   - Seasons:
       - Season 1: seasons/s1.md
       - Season 2: seasons/s2.md
